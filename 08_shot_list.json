@@ -1,0 +1,2208 @@
+[
+  {
+    "narrative_scene": 1,
+    "source_images": [
+      "1.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "elderly patient",
+      "family/visitors"
+    ],
+    "location": "LOC_05",
+    "shot_type": "CU",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 6.4,
+    "speaker": "UNKNOWN",
+    "speaker_confidence": "UNKNOWN",
+    "speaker_evidence": "insufficient evidence",
+    "dialogue_exact": "Bác Lim đã hơn 90 tuổi rồi, ông ấy đang ngày càng yếu dần đi...",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "patient lies in bed",
+    "emotion": "somber",
+    "character_references": [
+      "1.jpg"
+    ],
+    "location_reference": "1.jpg",
+    "continuity_requirements": [
+      "opening hospital setting"
+    ],
+    "ai_difficulty": "HIGH",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_001"
+  },
+  {
+    "narrative_scene": 1,
+    "source_images": [
+      "1.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "elderly patient",
+      "family/visitors"
+    ],
+    "location": "LOC_05",
+    "shot_type": "MS",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 6.4,
+    "speaker": "UNKNOWN",
+    "speaker_confidence": "UNKNOWN",
+    "speaker_evidence": "insufficient evidence",
+    "dialogue_exact": "Đành chịu thôi, có lẽ cũng sắp đến lúc ông ấy phải ra đi rồi...",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "patient lies in bed",
+    "emotion": "somber",
+    "character_references": [
+      "1.jpg"
+    ],
+    "location_reference": "1.jpg",
+    "continuity_requirements": [
+      "opening hospital setting"
+    ],
+    "ai_difficulty": "HIGH",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_002"
+  },
+  {
+    "narrative_scene": 1,
+    "source_images": [
+      "2.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "elderly patient"
+    ],
+    "location": "LOC_05",
+    "shot_type": "EXTREME",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 9.5,
+    "speaker": "UNKNOWN",
+    "speaker_confidence": "UNKNOWN",
+    "speaker_evidence": "insufficient evidence",
+    "dialogue_exact": "Mình đã sống được hơn 90 năm... Cuối cùng thì hôm nay mình cũng sẽ chết... Mí mắt mình nặng trĩu... Thật mệt mỏi... Thật tối tăm...",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "eyes close",
+    "emotion": "exhaustion",
+    "character_references": [
+      "2.jpg"
+    ],
+    "location_reference": "1.jpg",
+    "continuity_requirements": [
+      "continues scene 1"
+    ],
+    "ai_difficulty": "LOW",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_003"
+  },
+  {
+    "narrative_scene": 2,
+    "source_images": [
+      "3.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_01"
+    ],
+    "location": "LOC_01",
+    "shot_type": "CU",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 4.0,
+    "speaker": "CHAR_01",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "TỈNH DẬY!!!",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "student jolts upright at desk",
+    "emotion": "shock",
+    "character_references": [
+      "10.jpg"
+    ],
+    "location_reference": "8.jpg",
+    "continuity_requirements": [
+      "major location transition"
+    ],
+    "ai_difficulty": "LOW",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_004"
+  },
+  {
+    "narrative_scene": 2,
+    "source_images": [
+      "3.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_01"
+    ],
+    "location": "LOC_01",
+    "shot_type": "MS",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 3.6,
+    "speaker": "CHAR_01",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "Á?",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "student jolts upright at desk",
+    "emotion": "shock",
+    "character_references": [
+      "10.jpg"
+    ],
+    "location_reference": "8.jpg",
+    "continuity_requirements": [
+      "major location transition"
+    ],
+    "ai_difficulty": "LOW",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_005"
+  },
+  {
+    "narrative_scene": 2,
+    "source_images": [
+      "3.jpg"
+    ],
+    "derived_shot": true,
+    "characters": [
+      "CHAR_01"
+    ],
+    "location": "LOC_01",
+    "shot_type": "WS",
+    "camera_angle": "eye level",
+    "camera_movement": "slow pull-out",
+    "estimated_duration_seconds": 3,
+    "speaker": null,
+    "speaker_confidence": null,
+    "speaker_evidence": null,
+    "dialogue_exact": null,
+    "dialogue_continuity": null,
+    "narration_exact": null,
+    "visual_action": "Derived classroom establishing shot before Ah Lim wakes.",
+    "emotion": "shock",
+    "character_references": [
+      "3.jpg"
+    ],
+    "location_reference": "8.jpg",
+    "continuity_requirements": [
+      "major location transition"
+    ],
+    "ai_difficulty": "LOW",
+    "ai_generation_notes": "Derived shot; no new story event or dialogue.",
+    "shot_id": "SHOT_006"
+  },
+  {
+    "narrative_scene": 2,
+    "source_images": [
+      "4.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "LOC_01",
+    "shot_type": "CU",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 5.2,
+    "speaker": "CHAR_02",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "Woah! Ah Lim! Cuối cùng mày cũng tới!",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "characters face each other",
+    "emotion": "reunion/confusion",
+    "character_references": [
+      "10.jpg"
+    ],
+    "location_reference": "8.jpg",
+    "continuity_requirements": [
+      "same classroom as scene 3"
+    ],
+    "ai_difficulty": "LOW",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_007"
+  },
+  {
+    "narrative_scene": 2,
+    "source_images": [
+      "4.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "LOC_01",
+    "shot_type": "MS",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 7.8,
+    "speaker": "CHAR_01",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "Tại...tại sao tôi lại ở đây? Đây là đâu? Ô..ông có phải là bạn học cấp ba của tôi không? Ah Da?",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "characters face each other",
+    "emotion": "reunion/confusion",
+    "character_references": [
+      "10.jpg"
+    ],
+    "location_reference": "8.jpg",
+    "continuity_requirements": [
+      "same classroom as scene 3"
+    ],
+    "ai_difficulty": "LOW",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_008"
+  },
+  {
+    "narrative_scene": 2,
+    "source_images": [
+      "5.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "LOC_01",
+    "shot_type": "CU",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 8.5,
+    "speaker": "CHAR_02",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "Mày vẫn nhận ra tao sao Ah Lim!!! Cảm động muốn khóc luôn! Mày có biết là tao đã chờ mày lâu lắm rồi không hả?",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "guide cries/reaches; student responds",
+    "emotion": "comic sentimentality",
+    "character_references": [
+      "10.jpg"
+    ],
+    "location_reference": "8.jpg",
+    "continuity_requirements": [
+      "same pair and uniforms"
+    ],
+    "ai_difficulty": "MEDIUM",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_009"
+  },
+  {
+    "narrative_scene": 2,
+    "source_images": [
+      "5.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "LOC_01",
+    "shot_type": "MS",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 4.3,
+    "speaker": "CHAR_01",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "Mày...chờ tao sao?",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "guide cries/reaches; student responds",
+    "emotion": "comic sentimentality",
+    "character_references": [
+      "10.jpg"
+    ],
+    "location_reference": "8.jpg",
+    "continuity_requirements": [
+      "same pair and uniforms"
+    ],
+    "ai_difficulty": "MEDIUM",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_010"
+  },
+  {
+    "narrative_scene": 2,
+    "source_images": [
+      "6.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_02"
+    ],
+    "location": "LOC_01",
+    "shot_type": "MEDIUM",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 6.9,
+    "speaker": "CHAR_02",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "Ủa! Tao chờ mày chết đấy! Cuối cùng thì, cả lớp đã có mặt đông đủ hết rồi!",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "guide holds roll-call sheet",
+    "emotion": "relief/comedy",
+    "character_references": [
+      "17.jpg"
+    ],
+    "location_reference": "8.jpg",
+    "continuity_requirements": [
+      "named roster introduced"
+    ],
+    "ai_difficulty": "LOW",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_011"
+  },
+  {
+    "narrative_scene": 2,
+    "source_images": [
+      "7.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "LOC_01",
+    "shot_type": "CU",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 7.1,
+    "speaker": "CHAR_02",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "Mà mày ăn cái giống gì mà sống dai vãi cả lúa thế hả? Làm tao chờ lâu muốn chết!",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "guide runs/lunges through desks",
+    "emotion": "disbelief/comedy",
+    "character_references": [
+      "10.jpg"
+    ],
+    "location_reference": "8.jpg",
+    "continuity_requirements": [
+      "same classroom"
+    ],
+    "ai_difficulty": "HIGH",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_012"
+  },
+  {
+    "narrative_scene": 2,
+    "source_images": [
+      "7.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "LOC_01",
+    "shot_type": "MS",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 4.6,
+    "speaker": "CHAR_01",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "Tao...chết thật rồi sao?",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "guide runs/lunges through desks",
+    "emotion": "disbelief/comedy",
+    "character_references": [
+      "10.jpg"
+    ],
+    "location_reference": "8.jpg",
+    "continuity_requirements": [
+      "same classroom"
+    ],
+    "ai_difficulty": "HIGH",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_013"
+  },
+  {
+    "narrative_scene": 2,
+    "source_images": [
+      "8.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_01",
+      "CHAR_02",
+      "unknown classmates"
+    ],
+    "location": "LOC_01",
+    "shot_type": "CU",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 6.3,
+    "speaker": "CHAR_01",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "Cơ mà... Đây chả phải là lớp học thời cấp ba của tụi mình sao?",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "student stands at desk; guide stands beside him",
+    "emotion": "recognition",
+    "character_references": [
+      "10.jpg"
+    ],
+    "location_reference": "8.jpg",
+    "continuity_requirements": [
+      "classroom confirmed"
+    ],
+    "ai_difficulty": "LOW",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_014"
+  },
+  {
+    "narrative_scene": 2,
+    "source_images": [
+      "8.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_01",
+      "CHAR_02",
+      "unknown classmates"
+    ],
+    "location": "LOC_01",
+    "shot_type": "MS",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 4.8,
+    "speaker": "CHAR_02",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "Ừ! Ngạc nhiên lắm phải không?",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "student stands at desk; guide stands beside him",
+    "emotion": "recognition",
+    "character_references": [
+      "10.jpg"
+    ],
+    "location_reference": "8.jpg",
+    "continuity_requirements": [
+      "classroom confirmed"
+    ],
+    "ai_difficulty": "LOW",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_015"
+  },
+  {
+    "narrative_scene": 2,
+    "source_images": [
+      "9.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "LOC_01",
+    "shot_type": "CU",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 7.8,
+    "speaker": "CHAR_01",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "WOHAHAHAHAHA!!! Trước giờ tao chưa từng nghĩ là khi chết rồi sẽ quay lại thời học sinh cơ đấy!",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "both laugh",
+    "emotion": "exaggerated amusement",
+    "character_references": [
+      "10.jpg"
+    ],
+    "location_reference": "8.jpg",
+    "continuity_requirements": [
+      "same pair"
+    ],
+    "ai_difficulty": "LOW",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_016"
+  },
+  {
+    "narrative_scene": 2,
+    "source_images": [
+      "9.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "LOC_01",
+    "shot_type": "MS",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 5.9,
+    "speaker": "CHAR_02",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "Đừng có tự nhiên ngoạc mồm ra mà cười chứ! Sợ vãi ra!",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "both laugh",
+    "emotion": "exaggerated amusement",
+    "character_references": [
+      "10.jpg"
+    ],
+    "location_reference": "8.jpg",
+    "continuity_requirements": [
+      "same pair"
+    ],
+    "ai_difficulty": "LOW",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_017"
+  },
+  {
+    "narrative_scene": 3,
+    "source_images": [
+      "10.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "LOC_01",
+    "shot_type": "CU",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 11.8,
+    "speaker": "CHAR_02",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "Ok, để tao nói mày biết, mày chỉ có 3 tiếng để tận hưởng thời khắc tự do cuối cùng của thời cấp ba thôi và sau đó mày sẽ rời khỏi đây và tiếp tục Cuộc hành trình sau khi chết của mày.",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "guide checks watch and raises three fingers",
+    "emotion": "explanatory/concerned",
+    "character_references": [
+      "10.jpg"
+    ],
+    "location_reference": "18.jpg",
+    "continuity_requirements": [
+      "three-hour limit established"
+    ],
+    "ai_difficulty": "LOW",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_018"
+  },
+  {
+    "narrative_scene": 3,
+    "source_images": [
+      "10.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "LOC_01",
+    "shot_type": "MS",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 5.6,
+    "speaker": "CHAR_01",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "Thời khắc tự do cuối cùng? Chỉ có 3 tiếng thôi?",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "guide checks watch and raises three fingers",
+    "emotion": "explanatory/concerned",
+    "character_references": [
+      "10.jpg"
+    ],
+    "location_reference": "18.jpg",
+    "continuity_requirements": [
+      "three-hour limit established"
+    ],
+    "ai_difficulty": "LOW",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_019"
+  },
+  {
+    "narrative_scene": 3,
+    "source_images": [
+      "11.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "LOC_01",
+    "shot_type": "CU",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 6.0,
+    "speaker": "CHAR_01",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "Khoan đã!!! Làm sao mày biết được mấy thứ kì lạ này vậy?",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "characters explain and listen",
+    "emotion": "curiosity/explanation",
+    "character_references": [
+      "10.jpg"
+    ],
+    "location_reference": "18.jpg",
+    "continuity_requirements": [
+      "same pair"
+    ],
+    "ai_difficulty": "LOW",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_020"
+  },
+  {
+    "narrative_scene": 3,
+    "source_images": [
+      "11.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "LOC_01",
+    "shot_type": "MS",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 12,
+    "speaker": "CHAR_02",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "Bởi vì tao là người đầu tiên ngụm củ tỏi và quay lại đây trước cả lớp... Nên tạm thời tao là lớp trưởng ở đây, chịu trách nhiệm quản lý chỗ này, hướng dẫn những học sinh đến đây và điểm danh cho cả lớp luôn.",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "characters explain and listen",
+    "emotion": "curiosity/explanation",
+    "character_references": [
+      "10.jpg"
+    ],
+    "location_reference": "18.jpg",
+    "continuity_requirements": [
+      "same pair"
+    ],
+    "ai_difficulty": "LOW",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_021"
+  },
+  {
+    "narrative_scene": 3,
+    "source_images": [
+      "12.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "LOC_01",
+    "shot_type": "CU",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 5.0,
+    "speaker": "CHAR_01",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "Nhưng sao lại là cấp ba? Lạ vãi!",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "characters face each other",
+    "emotion": "reflective",
+    "character_references": [
+      "10.jpg"
+    ],
+    "location_reference": "18.jpg",
+    "continuity_requirements": [
+      "same clothing"
+    ],
+    "ai_difficulty": "LOW",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_022"
+  },
+  {
+    "narrative_scene": 3,
+    "source_images": [
+      "12.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "LOC_01",
+    "shot_type": "MS",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 11.4,
+    "speaker": "CHAR_02",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "Sao tao biết được? Có lẽ cấp ba là lúc chúng ta tràn trề sinh lực nhất và cũng là khoảng thời gian mà mọi người có nhiều đam mê, hoài bão với những ước mong và kỷ niệm nhất..",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "characters face each other",
+    "emotion": "reflective",
+    "character_references": [
+      "10.jpg"
+    ],
+    "location_reference": "18.jpg",
+    "continuity_requirements": [
+      "same clothing"
+    ],
+    "ai_difficulty": "LOW",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_023"
+  },
+  {
+    "narrative_scene": 3,
+    "source_images": [
+      "13.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "LOC_01",
+    "shot_type": "CU",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 6.8,
+    "speaker": "CHAR_01",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "Vậy mày chết thế nào? Tao ngạc nhiên mày lại là người chết đầu tiên đấy!",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "student points while guide recounts death",
+    "emotion": "curiosity/dark humor",
+    "character_references": [
+      "10.jpg"
+    ],
+    "location_reference": "18.jpg",
+    "continuity_requirements": [],
+    "ai_difficulty": "LOW",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_024"
+  },
+  {
+    "narrative_scene": 3,
+    "source_images": [
+      "13.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "LOC_01",
+    "shot_type": "MS",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 10.0,
+    "speaker": "CHAR_02",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "Khi tao tầm 20 tuổi, cường tráng và nhiệt huyết. Lúc đó tao thích mấy trò đua xe phạm pháp và xúi quẩy là tao chết trong một vụ tai nạn xe hơi.",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "student points while guide recounts death",
+    "emotion": "curiosity/dark humor",
+    "character_references": [
+      "10.jpg"
+    ],
+    "location_reference": "18.jpg",
+    "continuity_requirements": [],
+    "ai_difficulty": "LOW",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_025"
+  },
+  {
+    "narrative_scene": 3,
+    "source_images": [
+      "14.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "LOC_01",
+    "shot_type": "CU",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 4.6,
+    "speaker": "CHAR_01",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "WOHAHAHAHAHA! ĐÁNG LẮM!!",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "both laugh and react",
+    "emotion": "comic aggression",
+    "character_references": [
+      "10.jpg"
+    ],
+    "location_reference": "18.jpg",
+    "continuity_requirements": [],
+    "ai_difficulty": "LOW",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_026"
+  },
+  {
+    "narrative_scene": 3,
+    "source_images": [
+      "14.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "LOC_01",
+    "shot_type": "MS",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 4.7,
+    "speaker": "CHAR_02",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "BỐ VẢ CHO NÁT MÕM BÂY GIỜ!!",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "both laugh and react",
+    "emotion": "comic aggression",
+    "character_references": [
+      "10.jpg"
+    ],
+    "location_reference": "18.jpg",
+    "continuity_requirements": [],
+    "ai_difficulty": "LOW",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_027"
+  },
+  {
+    "narrative_scene": 3,
+    "source_images": [
+      "15.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "LOC_01",
+    "shot_type": "CU",
+    "camera_angle": "high-ish",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 6.7,
+    "speaker": "CHAR_01",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "Mà sao lớp học của mình trống vắng thế này? Những học sinh cũ khác đâu?",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "stand among empty desks",
+    "emotion": "loneliness/explanation",
+    "character_references": [
+      "10.jpg"
+    ],
+    "location_reference": "18.jpg",
+    "continuity_requirements": [
+      "semicircle arrangement becomes anchor"
+    ],
+    "ai_difficulty": "MEDIUM",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_028"
+  },
+  {
+    "narrative_scene": 3,
+    "source_images": [
+      "15.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "LOC_01",
+    "shot_type": "MS",
+    "camera_angle": "high-ish",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 9.8,
+    "speaker": "CHAR_02",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "Những người khác đến và đi hết rồi. Chỉ có mày là sống lâu nhất và là đứa chết cuối cùng thôi đấy. Tao phải ở đây đợi mày nên chưa đi được.",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "stand among empty desks",
+    "emotion": "loneliness/explanation",
+    "character_references": [
+      "10.jpg"
+    ],
+    "location_reference": "18.jpg",
+    "continuity_requirements": [
+      "semicircle arrangement becomes anchor"
+    ],
+    "ai_difficulty": "MEDIUM",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_029"
+  },
+  {
+    "narrative_scene": 3,
+    "source_images": [
+      "16.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "LOC_01",
+    "shot_type": "CU",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 6.7,
+    "speaker": "CHAR_01",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "Mày vất vả quá chừng! Ah Da, thật ra lúc còn sống tao nhớ mày lắm đấy~",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "student reaches toward guide",
+    "emotion": "affectionate/comic",
+    "character_references": [
+      "10.jpg"
+    ],
+    "location_reference": "18.jpg",
+    "continuity_requirements": [],
+    "ai_difficulty": "LOW",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_030"
+  },
+  {
+    "narrative_scene": 3,
+    "source_images": [
+      "16.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "LOC_01",
+    "shot_type": "MS",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 7.3,
+    "speaker": "CHAR_02",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "Thôi đi cha nội! Mấy đứa trong lớp gặp tao cũng nói câu y chang, nghe phát chán rồi.",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "student reaches toward guide",
+    "emotion": "affectionate/comic",
+    "character_references": [
+      "10.jpg"
+    ],
+    "location_reference": "18.jpg",
+    "continuity_requirements": [],
+    "ai_difficulty": "LOW",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_031"
+  },
+  {
+    "narrative_scene": 3,
+    "source_images": [
+      "17.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "LOC_01",
+    "shot_type": "CU",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 8.7,
+    "speaker": "CHAR_02",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "Được rồi! Giờ mày có 3 tiếng đồng hồ đấy, mày có thích làm gì trong trường cũ này không? Tao sẽ đồng hành cùng mày!",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "guide gestures to himself; student questions",
+    "emotion": "encouraging/confused",
+    "character_references": [
+      "10.jpg"
+    ],
+    "location_reference": "18.jpg",
+    "continuity_requirements": [],
+    "ai_difficulty": "LOW",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_032"
+  },
+  {
+    "narrative_scene": 3,
+    "source_images": [
+      "17.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "LOC_01",
+    "shot_type": "MS",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 5.8,
+    "speaker": "CHAR_01",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "Tao thích làm gì? À khoan! Tao có thể làm gì được?",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "guide gestures to himself; student questions",
+    "emotion": "encouraging/confused",
+    "character_references": [
+      "10.jpg"
+    ],
+    "location_reference": "18.jpg",
+    "continuity_requirements": [],
+    "ai_difficulty": "LOW",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_033"
+  },
+  {
+    "narrative_scene": 3,
+    "source_images": [
+      "18.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "LOC_01",
+    "shot_type": "CU",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 8.0,
+    "speaker": "CHAR_02",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "Mày có thể làm được nhiều thứ lắm! Thấy mấy cái bàn được xếp thành nửa vòng tròn ở cuối lớp không?",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "guide points at desks",
+    "emotion": "instructional",
+    "character_references": [
+      "10.jpg"
+    ],
+    "location_reference": "18.jpg",
+    "continuity_requirements": [
+      "points to arrangement from scene 15"
+    ],
+    "ai_difficulty": "LOW",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_034"
+  },
+  {
+    "narrative_scene": 3,
+    "source_images": [
+      "18.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "LOC_01",
+    "shot_type": "MS",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 4.0,
+    "speaker": "CHAR_01",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "Ờ, tao thấy.",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "guide points at desks",
+    "emotion": "instructional",
+    "character_references": [
+      "10.jpg"
+    ],
+    "location_reference": "18.jpg",
+    "continuity_requirements": [
+      "points to arrangement from scene 15"
+    ],
+    "ai_difficulty": "LOW",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_035"
+  },
+  {
+    "narrative_scene": 4,
+    "source_images": [
+      "19.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_03",
+      "unknown classmate"
+    ],
+    "location": "LOC_01",
+    "shot_type": "WIDE",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 7.5,
+    "speaker": "UNKNOWN",
+    "speaker_confidence": "UNKNOWN",
+    "speaker_evidence": "insufficient evidence",
+    "dialogue_exact": "Mày có nhớ Jenny, bạn học cũ của tụi mình không? Chính nhỏ đã xếp bàn theo kiểu đó đấy.",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": "Use the authoritative visible caption from 01_transcript_exact.md for this panel.",
+    "visual_action": "Jenny performs on makeshift stage",
+    "emotion": "aspiration",
+    "character_references": [
+      "19.jpg"
+    ],
+    "location_reference": "19.jpg",
+    "continuity_requirements": [
+      "semicircle becomes stage"
+    ],
+    "ai_difficulty": "HIGH",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_036"
+  },
+  {
+    "narrative_scene": 5,
+    "source_images": [
+      "20.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [],
+    "location": "LOC_01",
+    "shot_type": "INSERT/WIDE",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 4.9,
+    "speaker": "UNKNOWN",
+    "speaker_confidence": "UNKNOWN",
+    "speaker_evidence": "insufficient evidence",
+    "dialogue_exact": "Và chỗ ngồi cạnh cửa sổ kia...",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "hand points to seat",
+    "emotion": "anticipatory",
+    "character_references": [
+      "20.jpg"
+    ],
+    "location_reference": "21.jpg",
+    "continuity_requirements": [
+      "leads to Ah Guang vignette"
+    ],
+    "ai_difficulty": "LOW",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_037"
+  },
+  {
+    "narrative_scene": 5,
+    "source_images": [
+      "21.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_04",
+      "CHAR_02"
+    ],
+    "location": "LOC_01",
+    "shot_type": "WIDE",
+    "camera_angle": "eye level",
+    "camera_movement": "static",
+    "estimated_duration_seconds": 3.5,
+    "speaker": null,
+    "speaker_confidence": null,
+    "speaker_evidence": null,
+    "dialogue_exact": null,
+    "dialogue_continuity": null,
+    "narration_exact": "Use the authoritative visible caption from 01_transcript_exact.md for this panel.",
+    "visual_action": "photographer sits and looks outside",
+    "emotion": "quiet reflection",
+    "character_references": [
+      "17.jpg"
+    ],
+    "location_reference": "21.jpg",
+    "continuity_requirements": [
+      "window seat vignette"
+    ],
+    "ai_difficulty": "LOW",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_038"
+  },
+  {
+    "narrative_scene": 6,
+    "source_images": [
+      "22.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_05",
+      "unknown classmate"
+    ],
+    "location": "LOC_02",
+    "shot_type": "WIDE",
+    "camera_angle": "eye level",
+    "camera_movement": "static",
+    "estimated_duration_seconds": 3.5,
+    "speaker": null,
+    "speaker_confidence": null,
+    "speaker_evidence": null,
+    "dialogue_exact": null,
+    "dialogue_continuity": null,
+    "narration_exact": "Use the authoritative visible caption from 01_transcript_exact.md for this panel.",
+    "visual_action": "man rests on mattress",
+    "emotion": "peace",
+    "character_references": [
+      "22.jpg"
+    ],
+    "location_reference": "22.jpg",
+    "continuity_requirements": [
+      "new location vignette"
+    ],
+    "ai_difficulty": "MEDIUM",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_039"
+  },
+  {
+    "narrative_scene": 7,
+    "source_images": [
+      "23.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_06",
+      "unknown classmate"
+    ],
+    "location": "LOC_01",
+    "shot_type": "CU",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 3.7,
+    "speaker": "CHAR_06",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "Wu...",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": "Use the authoritative visible caption from 01_transcript_exact.md for this panel.",
+    "visual_action": "woman cries at desk",
+    "emotion": "regret",
+    "character_references": [
+      "23.jpg"
+    ],
+    "location_reference": "23.jpg",
+    "continuity_requirements": [],
+    "ai_difficulty": "LOW",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_040"
+  },
+  {
+    "narrative_scene": 7,
+    "source_images": [
+      "23.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_06",
+      "unknown classmate"
+    ],
+    "location": "LOC_01",
+    "shot_type": "MS",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 3.8,
+    "speaker": "UNKNOWN",
+    "speaker_confidence": "UNKNOWN",
+    "speaker_evidence": "insufficient evidence",
+    "dialogue_exact": "......",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": "Use the authoritative visible caption from 01_transcript_exact.md for this panel.",
+    "visual_action": "woman cries at desk",
+    "emotion": "regret",
+    "character_references": [
+      "23.jpg"
+    ],
+    "location_reference": "23.jpg",
+    "continuity_requirements": [],
+    "ai_difficulty": "LOW",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_041"
+  },
+  {
+    "narrative_scene": 8,
+    "source_images": [
+      "24.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_07",
+      "unknown classmate"
+    ],
+    "location": "LOC_02",
+    "shot_type": "CU",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 4.1,
+    "speaker": "CHAR_07",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "Huwaha hahaha!",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": "Use the authoritative visible caption from 01_transcript_exact.md for this panel.",
+    "visual_action": "run across field",
+    "emotion": "joy",
+    "character_references": [
+      "24.jpg"
+    ],
+    "location_reference": "24.jpg",
+    "continuity_requirements": [],
+    "ai_difficulty": "HIGH",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_042"
+  },
+  {
+    "narrative_scene": 8,
+    "source_images": [
+      "24.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_07",
+      "unknown classmate"
+    ],
+    "location": "LOC_02",
+    "shot_type": "MS",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 4.1,
+    "speaker": "UNKNOWN",
+    "speaker_confidence": "UNKNOWN",
+    "speaker_evidence": "insufficient evidence",
+    "dialogue_exact": "Ê chờ tui với!",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": "Use the authoritative visible caption from 01_transcript_exact.md for this panel.",
+    "visual_action": "run across field",
+    "emotion": "joy",
+    "character_references": [
+      "24.jpg"
+    ],
+    "location_reference": "24.jpg",
+    "continuity_requirements": [],
+    "ai_difficulty": "HIGH",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_043"
+  },
+  {
+    "narrative_scene": 9,
+    "source_images": [
+      "25.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_08",
+      "CHAR_02"
+    ],
+    "location": "LOC_01",
+    "shot_type": "WIDE",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 4.4,
+    "speaker": "CHAR_08",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "[INDISTINCT CHATTER]",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": "Use the authoritative visible caption from 01_transcript_exact.md for this panel.",
+    "visual_action": "businessman gestures and boasts",
+    "emotion": "boastful/comic",
+    "character_references": [
+      "17.jpg"
+    ],
+    "location_reference": "25.jpg",
+    "continuity_requirements": [
+      "speech bubble is deliberate graphical shorthand for extended indistinct chatter"
+    ],
+    "ai_difficulty": "MEDIUM",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_044"
+  },
+  {
+    "narrative_scene": 10,
+    "source_images": [
+      "26.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_09",
+      "unknown classmate"
+    ],
+    "location": "LOC_06",
+    "shot_type": "WIDE",
+    "camera_angle": "low-ish",
+    "camera_movement": "static",
+    "estimated_duration_seconds": 3.5,
+    "speaker": null,
+    "speaker_confidence": null,
+    "speaker_evidence": null,
+    "dialogue_exact": null,
+    "dialogue_continuity": null,
+    "narration_exact": "Use the authoritative visible caption from 01_transcript_exact.md for this panel.",
+    "visual_action": "play basketball",
+    "emotion": "playful/aspirational",
+    "character_references": [
+      "26.jpg"
+    ],
+    "location_reference": "26.jpg",
+    "continuity_requirements": [],
+    "ai_difficulty": "HIGH",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_045"
+  },
+  {
+    "narrative_scene": 11,
+    "source_images": [
+      "27.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "LOC_01",
+    "shot_type": "CU",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 9.1,
+    "speaker": "CHAR_02",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "Vậy đó!!! Mặc dù còn nhiều chuyện về bạn học cũ để kể nữa nhưng mà mày đã nghĩ xong về việc muốn làm trong 3 tiếng nữa chưa?",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "both raise hands",
+    "emotion": "enthusiasm",
+    "character_references": [
+      "10.jpg"
+    ],
+    "location_reference": "27.jpg",
+    "continuity_requirements": [
+      "returns to central pair"
+    ],
+    "ai_difficulty": "LOW",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_046"
+  },
+  {
+    "narrative_scene": 11,
+    "source_images": [
+      "27.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "LOC_01",
+    "shot_type": "MS",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 8.6,
+    "speaker": "CHAR_01",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "Rồi nha!!! Tao quyết định sẽ xuống căn-tin để ăn bữa ăn ở căn-tin trường cấp ba, đã lâu rồi tao chưa được ăn đó.",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "both raise hands",
+    "emotion": "enthusiasm",
+    "character_references": [
+      "10.jpg"
+    ],
+    "location_reference": "27.jpg",
+    "continuity_requirements": [
+      "returns to central pair"
+    ],
+    "ai_difficulty": "LOW",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_047"
+  },
+  {
+    "narrative_scene": 11,
+    "source_images": [
+      "28.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "LOC_07",
+    "shot_type": "CU",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 8.1,
+    "speaker": "CHAR_02",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "Vậy đi thôi! Mày làm tao ngạc nhiên hết sức! Chỉ còn chút thời gian mà vẫn nghĩ tới ăn uống cho được!",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "walk toward canteen",
+    "emotion": "lighthearted",
+    "character_references": [
+      "10.jpg"
+    ],
+    "location_reference": "28.jpg",
+    "continuity_requirements": [
+      "location transition"
+    ],
+    "ai_difficulty": "LOW",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_048"
+  },
+  {
+    "narrative_scene": 11,
+    "source_images": [
+      "28.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "LOC_07",
+    "shot_type": "MS",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 5.6,
+    "speaker": "CHAR_01",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "Tại tao nhớ mùi vị đồ ăn ở căn-tin quá thôi mà!",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "walk toward canteen",
+    "emotion": "lighthearted",
+    "character_references": [
+      "10.jpg"
+    ],
+    "location_reference": "28.jpg",
+    "continuity_requirements": [
+      "location transition"
+    ],
+    "ai_difficulty": "LOW",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_049"
+  },
+  {
+    "narrative_scene": 12,
+    "source_images": [
+      "29.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "LOC_04",
+    "shot_type": "CU",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 5.0,
+    "speaker": "CHAR_01",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "Có phải mày nhớ cái vị này không?",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "eat and point at food",
+    "emotion": "nostalgia/amusement",
+    "character_references": [
+      "10.jpg"
+    ],
+    "location_reference": "29.jpg",
+    "continuity_requirements": [
+      "food introduced"
+    ],
+    "ai_difficulty": "MEDIUM",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_050"
+  },
+  {
+    "narrative_scene": 12,
+    "source_images": [
+      "29.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "LOC_04",
+    "shot_type": "MS",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 5.3,
+    "speaker": "CHAR_02",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "Chính nó! Chính là cái hương vị này nè~",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "eat and point at food",
+    "emotion": "nostalgia/amusement",
+    "character_references": [
+      "10.jpg"
+    ],
+    "location_reference": "29.jpg",
+    "continuity_requirements": [
+      "food introduced"
+    ],
+    "ai_difficulty": "MEDIUM",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_051"
+  },
+  {
+    "narrative_scene": 12,
+    "source_images": [
+      "29.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "LOC_04",
+    "shot_type": "MS",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 6.6,
+    "speaker": "CHAR_01",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "Hahaha! Hài vãi! Ê, kể vài chuyện của cuộc đời mày cho tao nghe với!",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "eat and point at food",
+    "emotion": "nostalgia/amusement",
+    "character_references": [
+      "10.jpg"
+    ],
+    "location_reference": "29.jpg",
+    "continuity_requirements": [
+      "food introduced"
+    ],
+    "ai_difficulty": "MEDIUM",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_052"
+  },
+  {
+    "narrative_scene": 12,
+    "source_images": [
+      "29.jpg"
+    ],
+    "derived_shot": true,
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "LOC_04",
+    "shot_type": "WS",
+    "camera_angle": "eye level",
+    "camera_movement": "slow pull-out",
+    "estimated_duration_seconds": 3,
+    "speaker": null,
+    "speaker_confidence": null,
+    "speaker_evidence": null,
+    "dialogue_exact": null,
+    "dialogue_continuity": null,
+    "narration_exact": null,
+    "visual_action": "Derived canteen establishing shot before the meal.",
+    "emotion": "nostalgia/amusement",
+    "character_references": [
+      "29.jpg"
+    ],
+    "location_reference": "29.jpg",
+    "continuity_requirements": [
+      "food introduced"
+    ],
+    "ai_difficulty": "LOW",
+    "ai_generation_notes": "Derived shot; no new story event or dialogue.",
+    "shot_id": "SHOT_053"
+  },
+  {
+    "narrative_scene": 12,
+    "source_images": [
+      "30.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "LOC_04",
+    "shot_type": "CU",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 4.4,
+    "speaker": "CHAR_01",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "[INDISTINCT CHATTER]",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "eat and converse",
+    "emotion": "companionable",
+    "character_references": [
+      "10.jpg"
+    ],
+    "location_reference": "29.jpg",
+    "continuity_requirements": [
+      "three bubbles are deliberate graphical shorthand for indistinct chatter"
+    ],
+    "ai_difficulty": "LOW",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_054"
+  },
+  {
+    "narrative_scene": 12,
+    "source_images": [
+      "30.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "LOC_04",
+    "shot_type": "MS",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 4.4,
+    "speaker": "CHAR_02",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "[INDISTINCT CHATTER]",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "eat and converse",
+    "emotion": "companionable",
+    "character_references": [
+      "10.jpg"
+    ],
+    "location_reference": "29.jpg",
+    "continuity_requirements": [
+      "three bubbles are deliberate graphical shorthand for indistinct chatter"
+    ],
+    "ai_difficulty": "LOW",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_055"
+  },
+  {
+    "narrative_scene": 12,
+    "source_images": [
+      "30.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "LOC_04",
+    "shot_type": "MS",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 4.4,
+    "speaker": "CHAR_01",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "[INDISTINCT CHATTER]",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "eat and converse",
+    "emotion": "companionable",
+    "character_references": [
+      "10.jpg"
+    ],
+    "location_reference": "29.jpg",
+    "continuity_requirements": [
+      "three bubbles are deliberate graphical shorthand for indistinct chatter"
+    ],
+    "ai_difficulty": "LOW",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_056"
+  },
+  {
+    "narrative_scene": 12,
+    "source_images": [
+      "31.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "LOC_04",
+    "shot_type": "CU",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 4.5,
+    "speaker": "CHAR_02",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "Hmm, gần đến giờ rồi...",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "guide checks time",
+    "emotion": "sad acceptance",
+    "character_references": [
+      "10.jpg"
+    ],
+    "location_reference": "29.jpg",
+    "continuity_requirements": [
+      "time limit nearing end"
+    ],
+    "ai_difficulty": "LOW",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_057"
+  },
+  {
+    "narrative_scene": 12,
+    "source_images": [
+      "31.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "LOC_04",
+    "shot_type": "MS",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 5.2,
+    "speaker": "CHAR_01",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "Phải rồi ha, đến giờ tao phải đi rồi~",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "guide checks time",
+    "emotion": "sad acceptance",
+    "character_references": [
+      "10.jpg"
+    ],
+    "location_reference": "29.jpg",
+    "continuity_requirements": [
+      "time limit nearing end"
+    ],
+    "ai_difficulty": "LOW",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_058"
+  },
+  {
+    "narrative_scene": 13,
+    "source_images": [
+      "32.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "LOC_03",
+    "shot_type": "CU",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 10.8,
+    "speaker": "CHAR_01",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "Không ngờ là cuộc đời sau khi tốt nghiệp của chúng ta dù thế nào đi nữa, dù nghèo hay giàu, xấu hay tốt, hạnh phúc hay không thì cuối cùng đích đến vẫn là ở đây~",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "stand and talk by fence",
+    "emotion": "philosophical/friendly",
+    "character_references": [
+      "10.jpg"
+    ],
+    "location_reference": "33.jpg",
+    "continuity_requirements": [
+      "departure location"
+    ],
+    "ai_difficulty": "LOW",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_059"
+  },
+  {
+    "narrative_scene": 13,
+    "source_images": [
+      "32.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "LOC_03",
+    "shot_type": "MS",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 5.0,
+    "speaker": "CHAR_02",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "Hahaha, vậy mày muốn ở đâu có chứ?",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "stand and talk by fence",
+    "emotion": "philosophical/friendly",
+    "character_references": [
+      "10.jpg"
+    ],
+    "location_reference": "33.jpg",
+    "continuity_requirements": [
+      "departure location"
+    ],
+    "ai_difficulty": "LOW",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_060"
+  },
+  {
+    "narrative_scene": 13,
+    "source_images": [
+      "33.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "LOC_03",
+    "shot_type": "CU",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 7.1,
+    "speaker": "CHAR_01",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "Tao sẽ gặp lại mày lần nữa nếu định mệnh sắp đặt vẫn là bạn cùng lớp. Chào nhé!",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "student walks away waving; guide waves back",
+    "emotion": "farewell",
+    "character_references": [
+      "10.jpg"
+    ],
+    "location_reference": "33.jpg",
+    "continuity_requirements": [
+      "same gate as scene 32"
+    ],
+    "ai_difficulty": "LOW",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_061"
+  },
+  {
+    "narrative_scene": 13,
+    "source_images": [
+      "33.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "LOC_03",
+    "shot_type": "MS",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 3.7,
+    "speaker": "CHAR_02",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "Bye~",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "student walks away waving; guide waves back",
+    "emotion": "farewell",
+    "character_references": [
+      "10.jpg"
+    ],
+    "location_reference": "33.jpg",
+    "continuity_requirements": [
+      "same gate as scene 32"
+    ],
+    "ai_difficulty": "LOW",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_062"
+  },
+  {
+    "narrative_scene": 13,
+    "source_images": [
+      "34.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_02"
+    ],
+    "location": "LOC_03",
+    "shot_type": "WIDE",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 7.1,
+    "speaker": "CHAR_02",
+    "speaker_confidence": "HIGH",
+    "speaker_evidence": "visual attachment/turn-taking/direct address",
+    "dialogue_exact": "Được rồi!!! Mình sẽ nhanh chóng hoàn tất bước cuối cùng và cũng lên đường thôi!",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": null,
+    "visual_action": "guide runs toward building",
+    "emotion": "determined",
+    "character_references": [
+      "17.jpg"
+    ],
+    "location_reference": "33.jpg",
+    "continuity_requirements": [
+      "guide departs"
+    ],
+    "ai_difficulty": "HIGH",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_063"
+  },
+  {
+    "narrative_scene": 13,
+    "source_images": [
+      "35.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [
+      "CHAR_02"
+    ],
+    "location": "LOC_03",
+    "shot_type": "THREE-PANEL",
+    "camera_angle": "eye level",
+    "camera_movement": "static",
+    "estimated_duration_seconds": 3.5,
+    "speaker": null,
+    "speaker_confidence": null,
+    "speaker_evidence": null,
+    "dialogue_exact": null,
+    "dialogue_continuity": null,
+    "narration_exact": null,
+    "visual_action": "wave, wipe tears, turn away",
+    "emotion": "bittersweet",
+    "character_references": [
+      "17.jpg"
+    ],
+    "location_reference": "33.jpg",
+    "continuity_requirements": [
+      "silent epilogue"
+    ],
+    "ai_difficulty": "MEDIUM",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_064"
+  },
+  {
+    "narrative_scene": 13,
+    "source_images": [
+      "35.jpg"
+    ],
+    "derived_shot": true,
+    "characters": [
+      "CHAR_02"
+    ],
+    "location": "LOC_03",
+    "shot_type": "WS",
+    "camera_angle": "eye level",
+    "camera_movement": "slow pull-out",
+    "estimated_duration_seconds": 3,
+    "speaker": null,
+    "speaker_confidence": null,
+    "speaker_evidence": null,
+    "dialogue_exact": null,
+    "dialogue_continuity": null,
+    "narration_exact": null,
+    "visual_action": "Derived silent emotional hold after departure.",
+    "emotion": "bittersweet",
+    "character_references": [
+      "35.jpg"
+    ],
+    "location_reference": "33.jpg",
+    "continuity_requirements": [
+      "silent epilogue"
+    ],
+    "ai_difficulty": "LOW",
+    "ai_generation_notes": "Derived shot; no new story event or dialogue.",
+    "shot_id": "SHOT_065"
+  },
+  {
+    "narrative_scene": 14,
+    "source_images": [
+      "36.jpg"
+    ],
+    "derived_shot": false,
+    "characters": [],
+    "location": "LOC_01",
+    "shot_type": "WIDE",
+    "camera_angle": "eye level",
+    "camera_movement": "very slight push-in",
+    "estimated_duration_seconds": 7.5,
+    "speaker": "UNKNOWN",
+    "speaker_confidence": "UNKNOWN",
+    "speaker_evidence": "insufficient evidence",
+    "dialogue_exact": "Tất cả học sinh của lớp 5l cuối cùng cũng đã tốt nghiệp khỏi thế giới này. Xin vĩnh biệt!",
+    "dialogue_continuity": "COMPLETE IN THIS SHOT",
+    "narration_exact": "Use the authoritative visible caption from 01_transcript_exact.md for this panel.",
+    "visual_action": "empty room remains",
+    "emotion": "finality",
+    "character_references": [
+      "36.jpg"
+    ],
+    "location_reference": "36.jpg",
+    "continuity_requirements": [
+      "ending returns to classroom"
+    ],
+    "ai_difficulty": "LOW",
+    "ai_generation_notes": "Keep one primary action and stable background; preserve storyboard composition.",
+    "shot_id": "SHOT_066"
+  }
+]

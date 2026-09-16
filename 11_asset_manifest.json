@@ -1,0 +1,1276 @@
+[
+  {
+    "asset_id": "CHAR_01_FACE_FRONT_NEUTRAL",
+    "asset_type": "character",
+    "name": "Ah Lim face front neutral",
+    "purpose": "essential canonical master reference",
+    "source_images": [
+      "10.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_004",
+      "SHOT_007",
+      "SHOT_008",
+      "SHOT_010",
+      "SHOT_046"
+    ],
+    "priority": "CRITICAL",
+    "status": "APPROVED",
+    "output_path": "assets/characters/CHAR_01_Ah_Lim/masters/face_front_neutral.png",
+    "notes": "Lock permanent face, hair, uniform silhouette, and palette; derive other expressions later.",
+    "stage": 1,
+    "character_id": "CHAR_01",
+    "identity_reference": [
+      "10.jpg"
+    ],
+    "pose_body_reference": [
+      "10.jpg",
+      "28.jpg"
+    ]
+  },
+  {
+    "asset_id": "CHAR_01_FACE_3Q_TALKING",
+    "asset_type": "character",
+    "name": "Ah Lim face 3q talking",
+    "purpose": "essential canonical master reference",
+    "source_images": [
+      "10.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_004",
+      "SHOT_007",
+      "SHOT_008",
+      "SHOT_010",
+      "SHOT_046"
+    ],
+    "priority": "CRITICAL",
+    "status": "APPROVED",
+    "output_path": "assets/characters/CHAR_01_Ah_Lim/masters/face_3q_talking.png",
+    "notes": "Lock permanent face, hair, uniform silhouette, and palette; derive other expressions later.",
+    "stage": 1,
+    "character_id": "CHAR_01",
+    "identity_reference": [
+      "10.jpg"
+    ],
+    "pose_body_reference": [
+      "10.jpg",
+      "28.jpg"
+    ]
+  },
+  {
+    "asset_id": "CHAR_01_PROFILE_LEFT",
+    "asset_type": "character",
+    "name": "Ah Lim profile left",
+    "purpose": "essential canonical master reference",
+    "source_images": [
+      "10.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_004",
+      "SHOT_007",
+      "SHOT_008",
+      "SHOT_010",
+      "SHOT_046"
+    ],
+    "priority": "CRITICAL",
+    "status": "APPROVED",
+    "output_path": "assets/characters/CHAR_01_Ah_Lim/masters/profile_left.png",
+    "notes": "Lock permanent face, hair, uniform silhouette, and palette; derive other expressions later.",
+    "stage": 1,
+    "character_id": "CHAR_01",
+    "identity_reference": [
+      "10.jpg"
+    ],
+    "pose_body_reference": [
+      "10.jpg",
+      "28.jpg"
+    ]
+  },
+  {
+    "asset_id": "CHAR_01_FULL_BODY_FRONT",
+    "asset_type": "character",
+    "name": "Ah Lim full body front",
+    "purpose": "essential canonical master reference",
+    "source_images": [
+      "10.jpg",
+      "28.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_004",
+      "SHOT_007",
+      "SHOT_008",
+      "SHOT_010",
+      "SHOT_046"
+    ],
+    "priority": "CRITICAL",
+    "status": "APPROVED",
+    "output_path": "assets/characters/CHAR_01_Ah_Lim/masters/full_body_front.png",
+    "notes": "Lock permanent face, hair, uniform silhouette, and palette; derive other expressions later.",
+    "stage": 1,
+    "character_id": "CHAR_01",
+    "identity_reference": [
+      "10.jpg"
+    ],
+    "pose_body_reference": [
+      "10.jpg",
+      "28.jpg"
+    ]
+  },
+  {
+    "asset_id": "CHAR_01_FULL_BODY_3Q",
+    "asset_type": "character",
+    "name": "Ah Lim full body 3q",
+    "purpose": "essential canonical master reference",
+    "source_images": [
+      "10.jpg",
+      "28.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_004",
+      "SHOT_007",
+      "SHOT_008",
+      "SHOT_010",
+      "SHOT_046"
+    ],
+    "priority": "CRITICAL",
+    "status": "APPROVED",
+    "output_path": "assets/characters/CHAR_01_Ah_Lim/masters/full_body_3q.png",
+    "notes": "Lock permanent face, hair, uniform silhouette, and palette; derive other expressions later.",
+    "stage": 1,
+    "character_id": "CHAR_01",
+    "identity_reference": [
+      "10.jpg"
+    ],
+    "pose_body_reference": [
+      "10.jpg",
+      "28.jpg"
+    ]
+  },
+  {
+    "asset_id": "CHAR_01_FULL_BODY_SIDE",
+    "asset_type": "character",
+    "name": "Ah Lim full body side",
+    "purpose": "essential canonical master reference",
+    "source_images": [
+      "10.jpg",
+      "28.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_004",
+      "SHOT_007",
+      "SHOT_008",
+      "SHOT_010",
+      "SHOT_046"
+    ],
+    "priority": "CRITICAL",
+    "status": "APPROVED",
+    "output_path": "assets/characters/CHAR_01_Ah_Lim/masters/full_body_side.png",
+    "notes": "Lock permanent face, hair, uniform silhouette, and palette; derive other expressions later.",
+    "stage": 1,
+    "character_id": "CHAR_01",
+    "identity_reference": [
+      "10.jpg"
+    ],
+    "pose_body_reference": [
+      "10.jpg",
+      "28.jpg"
+    ]
+  },
+  {
+    "asset_id": "CHAR_01_SEATED_NEUTRAL",
+    "asset_type": "character",
+    "name": "Ah Lim seated neutral",
+    "purpose": "essential canonical master reference",
+    "source_images": [
+      "10.jpg",
+      "28.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_004",
+      "SHOT_007",
+      "SHOT_008",
+      "SHOT_010",
+      "SHOT_046"
+    ],
+    "priority": "CRITICAL",
+    "status": "APPROVED",
+    "output_path": "assets/characters/CHAR_01_Ah_Lim/masters/seated_neutral.png",
+    "notes": "Lock permanent face, hair, uniform silhouette, and palette; derive other expressions later.",
+    "stage": 1,
+    "character_id": "CHAR_01",
+    "identity_reference": [
+      "10.jpg"
+    ],
+    "pose_body_reference": [
+      "10.jpg",
+      "28.jpg"
+    ]
+  },
+  {
+    "asset_id": "CHAR_02_FACE_FRONT_NEUTRAL",
+    "asset_type": "character",
+    "name": "Ah Da face front neutral",
+    "purpose": "essential canonical master reference",
+    "source_images": [
+      "17.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_007",
+      "SHOT_010",
+      "SHOT_011",
+      "SHOT_046",
+      "SHOT_048"
+    ],
+    "priority": "CRITICAL",
+    "status": "APPROVED",
+    "output_path": "assets/characters/CHAR_02_Ah_Da/masters/face_front_neutral.png",
+    "notes": "Lock permanent face, hair, uniform silhouette, and palette; derive other expressions later.",
+    "stage": 1,
+    "character_id": "CHAR_02",
+    "identity_reference": [
+      "17.jpg"
+    ],
+    "pose_body_reference": [
+      "17.jpg",
+      "28.jpg"
+    ]
+  },
+  {
+    "asset_id": "CHAR_02_FACE_3Q_TALKING",
+    "asset_type": "character",
+    "name": "Ah Da face 3q talking",
+    "purpose": "essential canonical master reference",
+    "source_images": [
+      "17.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_007",
+      "SHOT_010",
+      "SHOT_011",
+      "SHOT_046",
+      "SHOT_048"
+    ],
+    "priority": "CRITICAL",
+    "status": "APPROVED",
+    "output_path": "assets/characters/CHAR_02_Ah_Da/masters/face_3q_talking.png",
+    "notes": "Lock permanent face, hair, uniform silhouette, and palette; derive other expressions later.",
+    "stage": 1,
+    "character_id": "CHAR_02",
+    "identity_reference": [
+      "17.jpg"
+    ],
+    "pose_body_reference": [
+      "17.jpg",
+      "28.jpg"
+    ]
+  },
+  {
+    "asset_id": "CHAR_02_PROFILE_LEFT",
+    "asset_type": "character",
+    "name": "Ah Da profile left",
+    "purpose": "essential canonical master reference",
+    "source_images": [
+      "17.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_007",
+      "SHOT_010",
+      "SHOT_011",
+      "SHOT_046",
+      "SHOT_048"
+    ],
+    "priority": "CRITICAL",
+    "status": "APPROVED",
+    "output_path": "assets/characters/CHAR_02_Ah_Da/masters/profile_left.png",
+    "notes": "Lock permanent face, hair, uniform silhouette, and palette; derive other expressions later.",
+    "stage": 1,
+    "character_id": "CHAR_02",
+    "identity_reference": [
+      "17.jpg"
+    ],
+    "pose_body_reference": [
+      "17.jpg",
+      "28.jpg"
+    ]
+  },
+  {
+    "asset_id": "CHAR_02_FULL_BODY_FRONT",
+    "asset_type": "character",
+    "name": "Ah Da full body front",
+    "purpose": "essential canonical master reference",
+    "source_images": [
+      "17.jpg",
+      "28.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_007",
+      "SHOT_010",
+      "SHOT_011",
+      "SHOT_046",
+      "SHOT_048"
+    ],
+    "priority": "CRITICAL",
+    "status": "APPROVED",
+    "output_path": "assets/characters/CHAR_02_Ah_Da/masters/full_body_front.png",
+    "notes": "Lock permanent face, hair, uniform silhouette, and palette; derive other expressions later.",
+    "stage": 1,
+    "character_id": "CHAR_02",
+    "identity_reference": [
+      "17.jpg"
+    ],
+    "pose_body_reference": [
+      "17.jpg",
+      "28.jpg"
+    ]
+  },
+  {
+    "asset_id": "CHAR_02_FULL_BODY_3Q",
+    "asset_type": "character",
+    "name": "Ah Da full body 3q",
+    "purpose": "essential canonical master reference",
+    "source_images": [
+      "17.jpg",
+      "28.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_007",
+      "SHOT_010",
+      "SHOT_011",
+      "SHOT_046",
+      "SHOT_048"
+    ],
+    "priority": "CRITICAL",
+    "status": "GENERATED",
+    "output_path": "assets/characters/CHAR_02_Ah_Da/masters/full_body_3q.png",
+    "notes": "Lock permanent face, hair, uniform silhouette, and palette; derive other expressions later.",
+    "stage": 1,
+    "character_id": "CHAR_02",
+    "identity_reference": [
+      "17.jpg"
+    ],
+    "pose_body_reference": [
+      "17.jpg",
+      "28.jpg"
+    ]
+  },
+  {
+    "asset_id": "CHAR_02_FULL_BODY_SIDE",
+    "asset_type": "character",
+    "name": "Ah Da full body side",
+    "purpose": "essential canonical master reference",
+    "source_images": [
+      "17.jpg",
+      "28.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_007",
+      "SHOT_010",
+      "SHOT_011",
+      "SHOT_046",
+      "SHOT_048"
+    ],
+    "priority": "CRITICAL",
+    "status": "NOT_GENERATED",
+    "output_path": "assets/characters/CHAR_02_Ah_Da/masters/full_body_side.png",
+    "notes": "Lock permanent face, hair, uniform silhouette, and palette; derive other expressions later.",
+    "stage": 1,
+    "character_id": "CHAR_02",
+    "identity_reference": [
+      "17.jpg"
+    ],
+    "pose_body_reference": [
+      "17.jpg",
+      "28.jpg"
+    ]
+  },
+  {
+    "asset_id": "CHAR_02_SEATED_NEUTRAL",
+    "asset_type": "character",
+    "name": "Ah Da seated neutral",
+    "purpose": "essential canonical master reference",
+    "source_images": [
+      "17.jpg",
+      "28.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_007",
+      "SHOT_010",
+      "SHOT_011",
+      "SHOT_046",
+      "SHOT_048"
+    ],
+    "priority": "CRITICAL",
+    "status": "NOT_GENERATED",
+    "output_path": "assets/characters/CHAR_02_Ah_Da/masters/seated_neutral.png",
+    "notes": "Lock permanent face, hair, uniform silhouette, and palette; derive other expressions later.",
+    "stage": 1,
+    "character_id": "CHAR_02",
+    "identity_reference": [
+      "17.jpg"
+    ],
+    "pose_body_reference": [
+      "17.jpg",
+      "28.jpg"
+    ]
+  },
+  {
+    "asset_id": "LOC_01_MASTER_WIDE",
+    "asset_type": "location",
+    "name": "Classroom master wide",
+    "purpose": "canonical spatial layout",
+    "source_images": [
+      "8.jpg",
+      "36.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_004",
+      "SHOT_006",
+      "SHOT_007",
+      "SHOT_066"
+    ],
+    "priority": "CRITICAL",
+    "status": "NOT_GENERATED",
+    "output_path": "assets/locations/LOC_01_classroom/masters/master_wide.png",
+    "notes": "Keep proportions, pale walls, simple desks, and stable daylight direction.",
+    "stage": 2,
+    "location_id": "LOC_01"
+  },
+  {
+    "asset_id": "LOC_01_FRONT",
+    "asset_type": "location",
+    "name": "Classroom front view",
+    "purpose": "blackboard and desk orientation",
+    "source_images": [
+      "3.jpg",
+      "8.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_004",
+      "SHOT_005"
+    ],
+    "priority": "CRITICAL",
+    "status": "NOT_GENERATED",
+    "output_path": "assets/locations/LOC_01_classroom/masters/front.png",
+    "notes": "Keep proportions, pale walls, simple desks, and stable daylight direction.",
+    "stage": 2,
+    "location_id": "LOC_01"
+  },
+  {
+    "asset_id": "LOC_01_WINDOW_SIDE",
+    "asset_type": "location",
+    "name": "Classroom window side",
+    "purpose": "window-seat continuity",
+    "source_images": [
+      "20.jpg",
+      "21.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_037",
+      "SHOT_038"
+    ],
+    "priority": "CRITICAL",
+    "status": "NOT_GENERATED",
+    "output_path": "assets/locations/LOC_01_classroom/masters/window_side.png",
+    "notes": "Keep proportions, pale walls, simple desks, and stable daylight direction.",
+    "stage": 2,
+    "location_id": "LOC_01"
+  },
+  {
+    "asset_id": "LOC_01_SEMICIRCLE",
+    "asset_type": "location",
+    "name": "Classroom semicircle",
+    "purpose": "Jenny-memory desk layout",
+    "source_images": [
+      "15.jpg",
+      "18.jpg",
+      "19.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_033",
+      "SHOT_034",
+      "SHOT_035"
+    ],
+    "priority": "CRITICAL",
+    "status": "NOT_GENERATED",
+    "output_path": "assets/locations/LOC_01_classroom/masters/semicircle.png",
+    "notes": "Keep proportions, pale walls, simple desks, and stable daylight direction.",
+    "stage": 2,
+    "location_id": "LOC_01"
+  },
+  {
+    "asset_id": "PROP_03_DESK_CHAIR_MASTER",
+    "asset_type": "prop",
+    "name": "Desk and chair master",
+    "purpose": "reusable student furniture",
+    "source_images": [
+      "8.jpg",
+      "36.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_004",
+      "SHOT_006",
+      "SHOT_033",
+      "SHOT_066"
+    ],
+    "priority": "CRITICAL",
+    "status": "NOT_GENERATED",
+    "output_path": "assets/props/PROP_03_desk_chair/master.png",
+    "notes": "Keep proportions, pale walls, simple desks, and stable daylight direction.",
+    "stage": 2,
+    "prop_id": "PROP_03"
+  },
+  {
+    "asset_id": "LOC_01_DOOR_SIDE",
+    "asset_type": "location",
+    "name": "Classroom door side",
+    "purpose": "exit/transition orientation",
+    "source_images": [
+      "8.jpg",
+      "36.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_048"
+    ],
+    "priority": "CRITICAL",
+    "status": "NOT_GENERATED",
+    "output_path": "assets/locations/LOC_01_classroom/masters/door_side.png",
+    "notes": "Derived classroom door-side geometry; 28.jpg is LOC_07 and is not used.",
+    "stage": 2,
+    "location_id": "LOC_01",
+    "derivation": "derive from approved LOC_01_MASTER_WIDE",
+    "dependency": "LOC_01_MASTER_WIDE"
+  },
+  {
+    "asset_id": "LOC_05_HOSPITAL_MASTER",
+    "asset_type": "location",
+    "name": "Hospital room master",
+    "purpose": "pilot environment",
+    "source_images": [
+      "1.jpg",
+      "2.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_001",
+      "SHOT_002",
+      "SHOT_003"
+    ],
+    "priority": "HIGH",
+    "status": "NOT_GENERATED",
+    "output_path": "assets/locations/LOC_05_hospital/masters/master_wide.png",
+    "notes": "Bed, monitor, dark tubing, and dim clinical lighting.",
+    "stage": 3,
+    "location_id": "LOC_05"
+  },
+  {
+    "asset_id": "PROP_04_BED_TUBING",
+    "asset_type": "prop",
+    "name": "Hospital bed and tubing",
+    "purpose": "pilot prop continuity",
+    "source_images": [
+      "1.jpg",
+      "2.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_001",
+      "SHOT_002"
+    ],
+    "priority": "HIGH",
+    "status": "NOT_GENERATED",
+    "output_path": "assets/props/PROP_04_hospital_bed/master.png",
+    "notes": "Preserve bed silhouette and dark tube path.",
+    "stage": 3,
+    "prop_id": "PROP_04"
+  },
+  {
+    "asset_id": "CHAR_01_SHOCK_WAKE_POSE",
+    "asset_type": "character",
+    "name": "Ah Lim wake-up pose",
+    "purpose": "pilot action reference",
+    "source_images": [
+      "10.jpg",
+      "28.jpg",
+      "3.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_004",
+      "SHOT_005"
+    ],
+    "priority": "HIGH",
+    "status": "NOT_GENERATED",
+    "output_path": "assets/characters/CHAR_01_Ah_Lim/poses/wake_shocked.png",
+    "notes": "Derived from approved master; no new identity features.",
+    "stage": 3,
+    "character_id": "CHAR_01",
+    "identity_reference": [
+      "10.jpg"
+    ],
+    "pose_body_reference": [
+      "10.jpg",
+      "28.jpg"
+    ]
+  },
+  {
+    "asset_id": "CHAR_02_GREETING_POSE",
+    "asset_type": "character",
+    "name": "Ah Da greeting pose",
+    "purpose": "pilot reunion reference",
+    "source_images": [
+      "17.jpg",
+      "28.jpg",
+      "4.jpg",
+      "5.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_007",
+      "SHOT_008"
+    ],
+    "priority": "HIGH",
+    "status": "NOT_GENERATED",
+    "output_path": "assets/characters/CHAR_02_Ah_Da/poses/greeting.png",
+    "notes": "Use approved face and uniform; expressive greeting only.",
+    "stage": 3,
+    "character_id": "CHAR_02",
+    "identity_reference": [
+      "17.jpg"
+    ],
+    "pose_body_reference": [
+      "17.jpg",
+      "28.jpg"
+    ]
+  },
+  {
+    "asset_id": "LOC_01_REUNION_SETUP",
+    "asset_type": "location",
+    "name": "Classroom reunion setup",
+    "purpose": "pilot environment continuity",
+    "source_images": [
+      "4.jpg",
+      "8.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_007",
+      "SHOT_008"
+    ],
+    "priority": "HIGH",
+    "status": "NOT_GENERATED",
+    "output_path": "assets/locations/LOC_01_classroom/variants/reunion_setup.png",
+    "notes": "Reuse classroom masters; variant only for character blocking.",
+    "stage": 3,
+    "location_id": "LOC_01"
+  },
+  {
+    "asset_id": "LOC_02_MASTER",
+    "asset_type": "location",
+    "name": "School field courtyard",
+    "purpose": "remaining location master",
+    "source_images": [
+      "22.jpg",
+      "24.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_039",
+      "SHOT_041"
+    ],
+    "priority": "HIGH",
+    "status": "NOT_GENERATED",
+    "output_path": "assets/locations/LOC_02_field/masters/master_wide.png",
+    "notes": "Open pale ground, distant fence/buildings.",
+    "stage": 4,
+    "location_id": "LOC_02"
+  },
+  {
+    "asset_id": "LOC_03_MASTER",
+    "asset_type": "location",
+    "name": "School gate perimeter",
+    "purpose": "remaining location master",
+    "source_images": [
+      "32.jpg",
+      "33.jpg",
+      "34.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_057",
+      "SHOT_058",
+      "SHOT_063",
+      "SHOT_064"
+    ],
+    "priority": "HIGH",
+    "status": "NOT_GENERATED",
+    "output_path": "assets/locations/LOC_03_gate/masters/master_wide.png",
+    "notes": "Chain-link gate, vertical fence, school facade.",
+    "stage": 4,
+    "location_id": "LOC_03"
+  },
+  {
+    "asset_id": "LOC_04_MASTER",
+    "asset_type": "location",
+    "name": "Canteen master",
+    "purpose": "remaining location master",
+    "source_images": [
+      "29.jpg",
+      "30.jpg",
+      "31.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_050",
+      "SHOT_051",
+      "SHOT_052",
+      "SHOT_053",
+      "SHOT_054"
+    ],
+    "priority": "HIGH",
+    "status": "NOT_GENERATED",
+    "output_path": "assets/locations/LOC_04_canteen/masters/master_wide.png",
+    "notes": "Tables, benches, plates, cups, neutral indoor light.",
+    "stage": 4,
+    "location_id": "LOC_04"
+  },
+  {
+    "asset_id": "LOC_06_MASTER",
+    "asset_type": "location",
+    "name": "Basketball court master",
+    "purpose": "remaining location master",
+    "source_images": [
+      "26.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_045"
+    ],
+    "priority": "HIGH",
+    "status": "NOT_GENERATED",
+    "output_path": "assets/locations/LOC_06_basketball_court/masters/master_wide.png",
+    "notes": "Hoop/backboard at left; distinct canonical location.",
+    "stage": 4,
+    "location_id": "LOC_06"
+  },
+  {
+    "asset_id": "LOC_07_MASTER",
+    "asset_type": "location",
+    "name": "School corridor master",
+    "purpose": "remaining location master",
+    "source_images": [
+      "28.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_048",
+      "SHOT_049"
+    ],
+    "priority": "HIGH",
+    "status": "NOT_GENERATED",
+    "output_path": "assets/locations/LOC_07_school_corridor/masters/master_wide.png",
+    "notes": "Doorway/threshold before canteen; do not use classroom geometry.",
+    "stage": 4,
+    "location_id": "LOC_07"
+  },
+  {
+    "asset_id": "LOC_03_FACADE_RUN",
+    "asset_type": "location",
+    "name": "School facade run path",
+    "purpose": "remaining location master",
+    "source_images": [
+      "34.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_063"
+    ],
+    "priority": "HIGH",
+    "status": "NOT_GENERATED",
+    "output_path": "assets/locations/LOC_03_gate/variants/facade_run.png",
+    "notes": "Stable straight run path toward building.",
+    "stage": 4,
+    "location_id": "LOC_03"
+  },
+  {
+    "asset_id": "LOC_04_TABLE_SET",
+    "asset_type": "location",
+    "name": "Canteen table set",
+    "purpose": "remaining location master",
+    "source_images": [
+      "29.jpg",
+      "30.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_050",
+      "SHOT_051",
+      "SHOT_052"
+    ],
+    "priority": "HIGH",
+    "status": "NOT_GENERATED",
+    "output_path": "assets/locations/LOC_04_canteen/props/table_set.png",
+    "notes": "Two-place eating arrangement.",
+    "stage": 4,
+    "location_id": "LOC_04"
+  },
+  {
+    "asset_id": "CHAR_03_PORTRAIT",
+    "asset_type": "character",
+    "name": "Jenny portrait",
+    "purpose": "minimal supporting portrait",
+    "source_images": [
+      "19.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_036"
+    ],
+    "priority": "MEDIUM",
+    "status": "NOT_GENERATED",
+    "output_path": "assets/characters/CHAR_03_Jenny/portrait.png",
+    "notes": "Blue performance outfit and dark hair.",
+    "stage": 5,
+    "character_id": "CHAR_03",
+    "identity_reference": [
+      "19.jpg"
+    ],
+    "pose_body_reference": [
+      "19.jpg"
+    ]
+  },
+  {
+    "asset_id": "CHAR_03_ACTION",
+    "asset_type": "character",
+    "name": "Jenny action reference",
+    "purpose": "required vignette action",
+    "source_images": [
+      "19.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_036"
+    ],
+    "priority": "MEDIUM",
+    "status": "NOT_GENERATED",
+    "output_path": "assets/characters/CHAR_03_Jenny/action.png",
+    "notes": "Blue performance outfit and dark hair.",
+    "stage": 5,
+    "character_id": "CHAR_03",
+    "identity_reference": [
+      "19.jpg"
+    ],
+    "pose_body_reference": [
+      "19.jpg"
+    ]
+  },
+  {
+    "asset_id": "CHAR_04_PORTRAIT",
+    "asset_type": "character",
+    "name": "Ah Guang portrait",
+    "purpose": "minimal supporting portrait",
+    "source_images": [
+      "21.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_038"
+    ],
+    "priority": "MEDIUM",
+    "status": "NOT_GENERATED",
+    "output_path": "assets/characters/CHAR_04_Ah_Guang/portrait.png",
+    "notes": "Window-seat seated pose.",
+    "stage": 5,
+    "character_id": "CHAR_04",
+    "identity_reference": [
+      "21.jpg"
+    ],
+    "pose_body_reference": [
+      "21.jpg"
+    ]
+  },
+  {
+    "asset_id": "CHAR_04_ACTION",
+    "asset_type": "character",
+    "name": "Ah Guang action reference",
+    "purpose": "required vignette action",
+    "source_images": [
+      "21.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_038"
+    ],
+    "priority": "MEDIUM",
+    "status": "NOT_GENERATED",
+    "output_path": "assets/characters/CHAR_04_Ah_Guang/action.png",
+    "notes": "Window-seat seated pose.",
+    "stage": 5,
+    "character_id": "CHAR_04",
+    "identity_reference": [
+      "21.jpg"
+    ],
+    "pose_body_reference": [
+      "21.jpg"
+    ]
+  },
+  {
+    "asset_id": "CHAR_05_PORTRAIT",
+    "asset_type": "character",
+    "name": "Huang Ming portrait",
+    "purpose": "minimal supporting portrait",
+    "source_images": [
+      "22.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_039"
+    ],
+    "priority": "MEDIUM",
+    "status": "NOT_GENERATED",
+    "output_path": "assets/characters/CHAR_05_Huang_Ming/portrait.png",
+    "notes": "Curled resting pose on mattress.",
+    "stage": 5,
+    "character_id": "CHAR_05",
+    "identity_reference": [
+      "22.jpg"
+    ],
+    "pose_body_reference": [
+      "22.jpg"
+    ]
+  },
+  {
+    "asset_id": "CHAR_05_ACTION",
+    "asset_type": "character",
+    "name": "Huang Ming action reference",
+    "purpose": "required vignette action",
+    "source_images": [
+      "22.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_039"
+    ],
+    "priority": "MEDIUM",
+    "status": "NOT_GENERATED",
+    "output_path": "assets/characters/CHAR_05_Huang_Ming/action.png",
+    "notes": "Curled resting pose on mattress.",
+    "stage": 5,
+    "character_id": "CHAR_05",
+    "identity_reference": [
+      "22.jpg"
+    ],
+    "pose_body_reference": [
+      "22.jpg"
+    ]
+  },
+  {
+    "asset_id": "CHAR_06_PORTRAIT",
+    "asset_type": "character",
+    "name": "May portrait",
+    "purpose": "minimal supporting portrait",
+    "source_images": [
+      "23.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_040",
+      "SHOT_041"
+    ],
+    "priority": "MEDIUM",
+    "status": "NOT_GENERATED",
+    "output_path": "assets/characters/CHAR_06_May/portrait.png",
+    "notes": "Crying seated pose.",
+    "stage": 5,
+    "character_id": "CHAR_06",
+    "identity_reference": [
+      "23.jpg"
+    ],
+    "pose_body_reference": [
+      "23.jpg"
+    ]
+  },
+  {
+    "asset_id": "CHAR_06_ACTION",
+    "asset_type": "character",
+    "name": "May action reference",
+    "purpose": "required vignette action",
+    "source_images": [
+      "23.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_040",
+      "SHOT_041"
+    ],
+    "priority": "MEDIUM",
+    "status": "NOT_GENERATED",
+    "output_path": "assets/characters/CHAR_06_May/action.png",
+    "notes": "Crying seated pose.",
+    "stage": 5,
+    "character_id": "CHAR_06",
+    "identity_reference": [
+      "23.jpg"
+    ],
+    "pose_body_reference": [
+      "23.jpg"
+    ]
+  },
+  {
+    "asset_id": "CHAR_07_PORTRAIT",
+    "asset_type": "character",
+    "name": "Li Jie portrait",
+    "purpose": "minimal supporting portrait",
+    "source_images": [
+      "24.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_042",
+      "SHOT_043"
+    ],
+    "priority": "MEDIUM",
+    "status": "NOT_GENERATED",
+    "output_path": "assets/characters/CHAR_07_Li_Jie/portrait.png",
+    "notes": "Joyful simple run.",
+    "stage": 5,
+    "character_id": "CHAR_07",
+    "identity_reference": [
+      "24.jpg"
+    ],
+    "pose_body_reference": [
+      "24.jpg"
+    ]
+  },
+  {
+    "asset_id": "CHAR_07_ACTION",
+    "asset_type": "character",
+    "name": "Li Jie action reference",
+    "purpose": "required vignette action",
+    "source_images": [
+      "24.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_042",
+      "SHOT_043"
+    ],
+    "priority": "MEDIUM",
+    "status": "NOT_GENERATED",
+    "output_path": "assets/characters/CHAR_07_Li_Jie/action.png",
+    "notes": "Joyful simple run.",
+    "stage": 5,
+    "character_id": "CHAR_07",
+    "identity_reference": [
+      "24.jpg"
+    ],
+    "pose_body_reference": [
+      "24.jpg"
+    ]
+  },
+  {
+    "asset_id": "CHAR_08_PORTRAIT",
+    "asset_type": "character",
+    "name": "Kim Fook portrait",
+    "purpose": "minimal supporting portrait",
+    "source_images": [
+      "25.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_044"
+    ],
+    "priority": "MEDIUM",
+    "status": "NOT_GENERATED",
+    "output_path": "assets/characters/CHAR_08_Kim_Fook/portrait.png",
+    "notes": "Glasses and open-arm boast pose.",
+    "stage": 5,
+    "character_id": "CHAR_08",
+    "identity_reference": [
+      "25.jpg"
+    ],
+    "pose_body_reference": [
+      "25.jpg"
+    ]
+  },
+  {
+    "asset_id": "CHAR_08_ACTION",
+    "asset_type": "character",
+    "name": "Kim Fook action reference",
+    "purpose": "required vignette action",
+    "source_images": [
+      "25.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_044"
+    ],
+    "priority": "MEDIUM",
+    "status": "NOT_GENERATED",
+    "output_path": "assets/characters/CHAR_08_Kim_Fook/action.png",
+    "notes": "Glasses and open-arm boast pose.",
+    "stage": 5,
+    "character_id": "CHAR_08",
+    "identity_reference": [
+      "25.jpg"
+    ],
+    "pose_body_reference": [
+      "25.jpg"
+    ]
+  },
+  {
+    "asset_id": "CHAR_09_PORTRAIT",
+    "asset_type": "character",
+    "name": "Anna portrait",
+    "purpose": "minimal supporting portrait",
+    "source_images": [
+      "26.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_045"
+    ],
+    "priority": "MEDIUM",
+    "status": "NOT_GENERATED",
+    "output_path": "assets/characters/CHAR_09_Anna/portrait.png",
+    "notes": "Tomboy basketball jump pose.",
+    "stage": 5,
+    "character_id": "CHAR_09",
+    "identity_reference": [
+      "26.jpg"
+    ],
+    "pose_body_reference": [
+      "26.jpg"
+    ]
+  },
+  {
+    "asset_id": "CHAR_09_ACTION",
+    "asset_type": "character",
+    "name": "Anna action reference",
+    "purpose": "required vignette action",
+    "source_images": [
+      "26.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_045"
+    ],
+    "priority": "MEDIUM",
+    "status": "NOT_GENERATED",
+    "output_path": "assets/characters/CHAR_09_Anna/action.png",
+    "notes": "Tomboy basketball jump pose.",
+    "stage": 5,
+    "character_id": "CHAR_09",
+    "identity_reference": [
+      "26.jpg"
+    ],
+    "pose_body_reference": [
+      "26.jpg"
+    ]
+  },
+  {
+    "asset_id": "PROP_01_WATCH",
+    "asset_type": "prop",
+    "name": "Ah Da wristwatch",
+    "purpose": "secondary prop master",
+    "source_images": [
+      "10.jpg",
+      "31.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_013",
+      "SHOT_054"
+    ],
+    "priority": "LOW",
+    "status": "NOT_GENERATED",
+    "output_path": "assets/props/PROP_01_watch/master.png",
+    "notes": "Small dark-band watch; maintain wrist placement.",
+    "stage": 6,
+    "prop_id": "PROP_01"
+  },
+  {
+    "asset_id": "PROP_02_ATTENDANCE_PAPER",
+    "asset_type": "prop",
+    "name": "Attendance paper",
+    "purpose": "secondary prop master",
+    "source_images": [
+      "6.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_012"
+    ],
+    "priority": "LOW",
+    "status": "NOT_GENERATED",
+    "output_path": "assets/props/PROP_02_attendance_paper/master.png",
+    "notes": "Do not invent readable roster text in generated art.",
+    "stage": 6,
+    "prop_id": "PROP_02"
+  },
+  {
+    "asset_id": "PROP_05_CANTEEN_MEAL",
+    "asset_type": "prop",
+    "name": "Two-plate canteen meal",
+    "purpose": "secondary prop master",
+    "source_images": [
+      "29.jpg",
+      "30.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_050",
+      "SHOT_051",
+      "SHOT_052",
+      "SHOT_053"
+    ],
+    "priority": "LOW",
+    "status": "NOT_GENERATED",
+    "output_path": "assets/props/PROP_05_canteen_meal/master.png",
+    "notes": "Simple plates/cups; no added branding.",
+    "stage": 6,
+    "prop_id": "PROP_05"
+  },
+  {
+    "asset_id": "PROP_06_MATTRESS_STACK",
+    "asset_type": "prop",
+    "name": "Mattress stack",
+    "purpose": "secondary prop master",
+    "source_images": [
+      "22.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_039"
+    ],
+    "priority": "LOW",
+    "status": "NOT_GENERATED",
+    "output_path": "assets/props/PROP_06_mattress_stack/master.png",
+    "notes": "Two/three pale mattresses.",
+    "stage": 6,
+    "prop_id": "PROP_06"
+  },
+  {
+    "asset_id": "PROP_07_BASKETBALL_HOOP",
+    "asset_type": "prop",
+    "name": "Basketball and hoop",
+    "purpose": "secondary prop master",
+    "source_images": [
+      "26.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_045"
+    ],
+    "priority": "LOW",
+    "status": "NOT_GENERATED",
+    "output_path": "assets/props/PROP_07_basketball_hoop/master.png",
+    "notes": "One ball; static hoop/backboard.",
+    "stage": 6,
+    "prop_id": "PROP_07"
+  },
+  {
+    "asset_id": "PROP_08_RAILING",
+    "asset_type": "prop",
+    "name": "School railing",
+    "purpose": "secondary prop master",
+    "source_images": [
+      "25.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_044"
+    ],
+    "priority": "LOW",
+    "status": "NOT_GENERATED",
+    "output_path": "assets/props/PROP_08_railing/master.png",
+    "notes": "Horizontal rail with evenly spaced vertical bars.",
+    "stage": 6,
+    "prop_id": "PROP_08"
+  },
+  {
+    "asset_id": "PROP_09_WHITEBOARD",
+    "asset_type": "prop",
+    "name": "Classroom whiteboard",
+    "purpose": "secondary prop master",
+    "source_images": [
+      "36.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_066"
+    ],
+    "priority": "LOW",
+    "status": "NOT_GENERATED",
+    "output_path": "assets/props/PROP_09_whiteboard/master.png",
+    "notes": "Keep farewell board as source-referenced text asset.",
+    "stage": 6,
+    "prop_id": "PROP_09"
+  }
+]

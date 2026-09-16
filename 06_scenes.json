@@ -1,0 +1,1258 @@
+[
+  {
+    "scene": 1,
+    "file": "1.jpg",
+    "text": [
+      {
+        "speaker_exact": "UNKNOWN",
+        "dialogue_exact": "Bác Lim đã hơn 90 tuổi rồi, ông ấy đang ngày càng yếu dần đi...",
+        "confidence": "high",
+        "speaker_confidence": "UNKNOWN",
+        "speaker_evidence": "insufficient evidence"
+      },
+      {
+        "speaker_exact": "UNKNOWN",
+        "dialogue_exact": "Đành chịu thôi, có lẽ cũng sắp đến lúc ông ấy phải ra đi rồi...",
+        "confidence": "high",
+        "speaker_confidence": "UNKNOWN",
+        "speaker_evidence": "insufficient evidence"
+      }
+    ],
+    "characters": [
+      "elderly patient",
+      "family/visitors"
+    ],
+    "location": "hospital room",
+    "lighting": "unknown indoor",
+    "shot_type": "medium-wide",
+    "camera_angle": "eye level",
+    "actions": [
+      "patient lies in bed"
+    ],
+    "props": [
+      "hospital bed",
+      "medical tubing",
+      "monitor"
+    ],
+    "emotion": "somber",
+    "continuity_notes": [
+      "opening hospital setting"
+    ]
+  },
+  {
+    "scene": 2,
+    "file": "2.jpg",
+    "text": [
+      {
+        "speaker_exact": "UNKNOWN",
+        "dialogue_exact": "Mình đã sống được hơn 90 năm... Cuối cùng thì hôm nay mình cũng sẽ chết... Mí mắt mình nặng trĩu... Thật mệt mỏi... Thật tối tăm...",
+        "confidence": "high",
+        "speaker_confidence": "UNKNOWN",
+        "speaker_evidence": "insufficient evidence"
+      }
+    ],
+    "characters": [
+      "elderly patient"
+    ],
+    "location": "hospital room",
+    "lighting": "dark/unknown",
+    "shot_type": "extreme close-up",
+    "camera_angle": "eye level",
+    "actions": [
+      "eyes close"
+    ],
+    "props": [
+      "bed/pillow"
+    ],
+    "emotion": "exhaustion",
+    "continuity_notes": [
+      "continues scene 1"
+    ]
+  },
+  {
+    "scene": 3,
+    "file": "3.jpg",
+    "text": [
+      {
+        "speaker_exact": "CHAR_01",
+        "dialogue_exact": "TỈNH DẬY!!!",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      },
+      {
+        "speaker_exact": "CHAR_01",
+        "dialogue_exact": "Á?",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      }
+    ],
+    "characters": [
+      "CHAR_01"
+    ],
+    "location": "classroom",
+    "lighting": "neutral daylight",
+    "shot_type": "medium shot",
+    "camera_angle": "eye level",
+    "actions": [
+      "student jolts upright at desk"
+    ],
+    "props": [
+      "desk",
+      "chairs"
+    ],
+    "emotion": "shock",
+    "continuity_notes": [
+      "major location transition"
+    ]
+  },
+  {
+    "scene": 4,
+    "file": "4.jpg",
+    "text": [
+      {
+        "speaker_exact": "CHAR_02",
+        "dialogue_exact": "Woah! Ah Lim! Cuối cùng mày cũng tới!",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      },
+      {
+        "speaker_exact": "CHAR_01",
+        "dialogue_exact": "Tại...tại sao tôi lại ở đây? Đây là đâu? Ô..ông có phải là bạn học cấp ba của tôi không? Ah Da?",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      }
+    ],
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "classroom",
+    "lighting": "neutral",
+    "shot_type": "two-shot",
+    "camera_angle": "eye level",
+    "actions": [
+      "characters face each other"
+    ],
+    "props": [
+      "desk",
+      "whiteboard"
+    ],
+    "emotion": "reunion/confusion",
+    "continuity_notes": [
+      "same classroom as scene 3"
+    ]
+  },
+  {
+    "scene": 5,
+    "file": "5.jpg",
+    "text": [
+      {
+        "speaker_exact": "CHAR_02",
+        "dialogue_exact": "Mày vẫn nhận ra tao sao Ah Lim!!! Cảm động muốn khóc luôn! Mày có biết là tao đã chờ mày lâu lắm rồi không hả?",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      },
+      {
+        "speaker_exact": "CHAR_01",
+        "dialogue_exact": "Mày...chờ tao sao?",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      }
+    ],
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "classroom",
+    "lighting": "neutral",
+    "shot_type": "medium-wide",
+    "camera_angle": "eye level",
+    "actions": [
+      "guide cries/reaches; student responds"
+    ],
+    "props": [
+      "desks",
+      "chairs"
+    ],
+    "emotion": "comic sentimentality",
+    "continuity_notes": [
+      "same pair and uniforms"
+    ]
+  },
+  {
+    "scene": 6,
+    "file": "6.jpg",
+    "text": [
+      {
+        "speaker_exact": "CHAR_02",
+        "dialogue_exact": "Ủa! Tao chờ mày chết đấy! Cuối cùng thì, cả lớp đã có mặt đông đủ hết rồi!",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      }
+    ],
+    "characters": [
+      "CHAR_02"
+    ],
+    "location": "classroom",
+    "lighting": "neutral",
+    "shot_type": "medium shot",
+    "camera_angle": "eye level",
+    "actions": [
+      "guide holds roll-call sheet"
+    ],
+    "props": [
+      "roll-call list"
+    ],
+    "emotion": "relief/comedy",
+    "continuity_notes": [
+      "named roster introduced"
+    ]
+  },
+  {
+    "scene": 7,
+    "file": "7.jpg",
+    "text": [
+      {
+        "speaker_exact": "CHAR_02",
+        "dialogue_exact": "Mà mày ăn cái giống gì mà sống dai vãi cả lúa thế hả? Làm tao chờ lâu muốn chết!",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      },
+      {
+        "speaker_exact": "CHAR_01",
+        "dialogue_exact": "Tao...chết thật rồi sao?",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      }
+    ],
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "classroom",
+    "lighting": "neutral",
+    "shot_type": "wide shot",
+    "camera_angle": "eye level",
+    "actions": [
+      "guide runs/lunges through desks"
+    ],
+    "props": [
+      "desks",
+      "chairs"
+    ],
+    "emotion": "disbelief/comedy",
+    "continuity_notes": [
+      "same classroom"
+    ]
+  },
+  {
+    "scene": 8,
+    "file": "8.jpg",
+    "text": [
+      {
+        "speaker_exact": "CHAR_01",
+        "dialogue_exact": "Cơ mà... Đây chả phải là lớp học thời cấp ba của tụi mình sao?",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      },
+      {
+        "speaker_exact": "CHAR_02",
+        "dialogue_exact": "Ừ! Ngạc nhiên lắm phải không?",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      }
+    ],
+    "characters": [
+      "CHAR_01",
+      "CHAR_02",
+      "unknown classmates"
+    ],
+    "location": "classroom",
+    "lighting": "neutral",
+    "shot_type": "medium-wide",
+    "camera_angle": "eye level",
+    "actions": [
+      "student stands at desk; guide stands beside him"
+    ],
+    "props": [
+      "desks",
+      "chairs"
+    ],
+    "emotion": "recognition",
+    "continuity_notes": [
+      "classroom confirmed"
+    ]
+  },
+  {
+    "scene": 9,
+    "file": "9.jpg",
+    "text": [
+      {
+        "speaker_exact": "CHAR_01",
+        "dialogue_exact": "WOHAHAHAHAHA!!! Trước giờ tao chưa từng nghĩ là khi chết rồi sẽ quay lại thời học sinh cơ đấy!",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      },
+      {
+        "speaker_exact": "CHAR_02",
+        "dialogue_exact": "Đừng có tự nhiên ngoạc mồm ra mà cười chứ! Sợ vãi ra!",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      }
+    ],
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "classroom",
+    "lighting": "neutral",
+    "shot_type": "close two-shot",
+    "camera_angle": "eye level",
+    "actions": [
+      "both laugh"
+    ],
+    "props": [],
+    "emotion": "exaggerated amusement",
+    "continuity_notes": [
+      "same pair"
+    ]
+  },
+  {
+    "scene": 10,
+    "file": "10.jpg",
+    "text": [
+      {
+        "speaker_exact": "CHAR_02",
+        "dialogue_exact": "Ok, để tao nói mày biết, mày chỉ có 3 tiếng để tận hưởng thời khắc tự do cuối cùng của thời cấp ba thôi và sau đó mày sẽ rời khỏi đây và tiếp tục Cuộc hành trình sau khi chết của mày.",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      },
+      {
+        "speaker_exact": "CHAR_01",
+        "dialogue_exact": "Thời khắc tự do cuối cùng? Chỉ có 3 tiếng thôi?",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      }
+    ],
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "classroom",
+    "lighting": "neutral",
+    "shot_type": "medium two-shot",
+    "camera_angle": "eye level",
+    "actions": [
+      "guide checks watch and raises three fingers"
+    ],
+    "props": [
+      "watch"
+    ],
+    "emotion": "explanatory/concerned",
+    "continuity_notes": [
+      "three-hour limit established"
+    ]
+  },
+  {
+    "scene": 11,
+    "file": "11.jpg",
+    "text": [
+      {
+        "speaker_exact": "CHAR_01",
+        "dialogue_exact": "Khoan đã!!! Làm sao mày biết được mấy thứ kì lạ này vậy?",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      },
+      {
+        "speaker_exact": "CHAR_02",
+        "dialogue_exact": "Bởi vì tao là người đầu tiên ngụm củ tỏi và quay lại đây trước cả lớp... Nên tạm thời tao là lớp trưởng ở đây, chịu trách nhiệm quản lý chỗ này, hướng dẫn những học sinh đến đây và điểm danh cho cả lớp luôn.",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      }
+    ],
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "classroom",
+    "lighting": "neutral",
+    "shot_type": "medium two-shot",
+    "camera_angle": "eye level",
+    "actions": [
+      "characters explain and listen"
+    ],
+    "props": [],
+    "emotion": "curiosity/explanation",
+    "continuity_notes": [
+      "same pair"
+    ]
+  },
+  {
+    "scene": 12,
+    "file": "12.jpg",
+    "text": [
+      {
+        "speaker_exact": "CHAR_01",
+        "dialogue_exact": "Nhưng sao lại là cấp ba? Lạ vãi!",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      },
+      {
+        "speaker_exact": "CHAR_02",
+        "dialogue_exact": "Sao tao biết được? Có lẽ cấp ba là lúc chúng ta tràn trề sinh lực nhất và cũng là khoảng thời gian mà mọi người có nhiều đam mê, hoài bão với những ước mong và kỷ niệm nhất..",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      }
+    ],
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "classroom",
+    "lighting": "neutral",
+    "shot_type": "medium two-shot",
+    "camera_angle": "eye level",
+    "actions": [
+      "characters face each other"
+    ],
+    "props": [],
+    "emotion": "reflective",
+    "continuity_notes": [
+      "same clothing"
+    ]
+  },
+  {
+    "scene": 13,
+    "file": "13.jpg",
+    "text": [
+      {
+        "speaker_exact": "CHAR_01",
+        "dialogue_exact": "Vậy mày chết thế nào? Tao ngạc nhiên mày lại là người chết đầu tiên đấy!",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      },
+      {
+        "speaker_exact": "CHAR_02",
+        "dialogue_exact": "Khi tao tầm 20 tuổi, cường tráng và nhiệt huyết. Lúc đó tao thích mấy trò đua xe phạm pháp và xúi quẩy là tao chết trong một vụ tai nạn xe hơi.",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      }
+    ],
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "classroom",
+    "lighting": "neutral",
+    "shot_type": "medium two-shot",
+    "camera_angle": "eye level",
+    "actions": [
+      "student points while guide recounts death"
+    ],
+    "props": [],
+    "emotion": "curiosity/dark humor",
+    "continuity_notes": []
+  },
+  {
+    "scene": 14,
+    "file": "14.jpg",
+    "text": [
+      {
+        "speaker_exact": "CHAR_01",
+        "dialogue_exact": "WOHAHAHAHAHA! ĐÁNG LẮM!!",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      },
+      {
+        "speaker_exact": "CHAR_02",
+        "dialogue_exact": "BỐ VẢ CHO NÁT MÕM BÂY GIỜ!!",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      }
+    ],
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "classroom",
+    "lighting": "neutral",
+    "shot_type": "close two-shot",
+    "camera_angle": "eye level",
+    "actions": [
+      "both laugh and react"
+    ],
+    "props": [],
+    "emotion": "comic aggression",
+    "continuity_notes": []
+  },
+  {
+    "scene": 15,
+    "file": "15.jpg",
+    "text": [
+      {
+        "speaker_exact": "CHAR_01",
+        "dialogue_exact": "Mà sao lớp học của mình trống vắng thế này? Những học sinh cũ khác đâu?",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      },
+      {
+        "speaker_exact": "CHAR_02",
+        "dialogue_exact": "Những người khác đến và đi hết rồi. Chỉ có mày là sống lâu nhất và là đứa chết cuối cùng thôi đấy. Tao phải ở đây đợi mày nên chưa đi được.",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      }
+    ],
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "classroom",
+    "lighting": "neutral",
+    "shot_type": "wide shot",
+    "camera_angle": "high-ish",
+    "actions": [
+      "stand among empty desks"
+    ],
+    "props": [
+      "semicircle desks",
+      "whiteboard"
+    ],
+    "emotion": "loneliness/explanation",
+    "continuity_notes": [
+      "semicircle arrangement becomes anchor"
+    ]
+  },
+  {
+    "scene": 16,
+    "file": "16.jpg",
+    "text": [
+      {
+        "speaker_exact": "CHAR_01",
+        "dialogue_exact": "Mày vất vả quá chừng! Ah Da, thật ra lúc còn sống tao nhớ mày lắm đấy~",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      },
+      {
+        "speaker_exact": "CHAR_02",
+        "dialogue_exact": "Thôi đi cha nội! Mấy đứa trong lớp gặp tao cũng nói câu y chang, nghe phát chán rồi.",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      }
+    ],
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "classroom",
+    "lighting": "neutral",
+    "shot_type": "medium two-shot",
+    "camera_angle": "eye level",
+    "actions": [
+      "student reaches toward guide"
+    ],
+    "props": [
+      "desk"
+    ],
+    "emotion": "affectionate/comic",
+    "continuity_notes": []
+  },
+  {
+    "scene": 17,
+    "file": "17.jpg",
+    "text": [
+      {
+        "speaker_exact": "CHAR_02",
+        "dialogue_exact": "Được rồi! Giờ mày có 3 tiếng đồng hồ đấy, mày có thích làm gì trong trường cũ này không? Tao sẽ đồng hành cùng mày!",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      },
+      {
+        "speaker_exact": "CHAR_01",
+        "dialogue_exact": "Tao thích làm gì? À khoan! Tao có thể làm gì được?",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      }
+    ],
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "classroom",
+    "lighting": "neutral",
+    "shot_type": "medium two-shot",
+    "camera_angle": "eye level",
+    "actions": [
+      "guide gestures to himself; student questions"
+    ],
+    "props": [],
+    "emotion": "encouraging/confused",
+    "continuity_notes": []
+  },
+  {
+    "scene": 18,
+    "file": "18.jpg",
+    "text": [
+      {
+        "speaker_exact": "CHAR_02",
+        "dialogue_exact": "Mày có thể làm được nhiều thứ lắm! Thấy mấy cái bàn được xếp thành nửa vòng tròn ở cuối lớp không?",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      },
+      {
+        "speaker_exact": "CHAR_01",
+        "dialogue_exact": "Ờ, tao thấy.",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      }
+    ],
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "classroom",
+    "lighting": "neutral",
+    "shot_type": "medium-wide",
+    "camera_angle": "eye level",
+    "actions": [
+      "guide points at desks"
+    ],
+    "props": [
+      "semicircle desks"
+    ],
+    "emotion": "instructional",
+    "continuity_notes": [
+      "points to arrangement from scene 15"
+    ]
+  },
+  {
+    "scene": 19,
+    "file": "19.jpg",
+    "text": [
+      {
+        "speaker_exact": "UNKNOWN",
+        "dialogue_exact": "Mày có nhớ Jenny, bạn học cũ của tụi mình không? Chính nhỏ đã xếp bàn theo kiểu đó đấy.",
+        "confidence": "high",
+        "speaker_confidence": "UNKNOWN",
+        "speaker_evidence": "insufficient evidence"
+      }
+    ],
+    "characters": [
+      "CHAR_03",
+      "unknown classmate"
+    ],
+    "location": "classroom",
+    "lighting": "neutral",
+    "shot_type": "wide shot",
+    "camera_angle": "eye level",
+    "actions": [
+      "Jenny performs on makeshift stage"
+    ],
+    "props": [
+      "desks as stage"
+    ],
+    "emotion": "aspiration",
+    "continuity_notes": [
+      "semicircle becomes stage"
+    ]
+  },
+  {
+    "scene": 20,
+    "file": "20.jpg",
+    "text": [
+      {
+        "speaker_exact": "UNKNOWN",
+        "dialogue_exact": "Và chỗ ngồi cạnh cửa sổ kia...",
+        "confidence": "high",
+        "speaker_confidence": "UNKNOWN",
+        "speaker_evidence": "insufficient evidence"
+      }
+    ],
+    "characters": [],
+    "location": "classroom by window",
+    "lighting": "daylight",
+    "shot_type": "insert/wide",
+    "camera_angle": "eye level",
+    "actions": [
+      "hand points to seat"
+    ],
+    "props": [
+      "window",
+      "desk"
+    ],
+    "emotion": "anticipatory",
+    "continuity_notes": [
+      "leads to Ah Guang vignette"
+    ]
+  },
+  {
+    "scene": 21,
+    "file": "21.jpg",
+    "text": [],
+    "characters": [
+      "CHAR_04",
+      "CHAR_02"
+    ],
+    "location": "classroom by window",
+    "lighting": "daylight",
+    "shot_type": "wide shot",
+    "camera_angle": "eye level",
+    "actions": [
+      "photographer sits and looks outside"
+    ],
+    "props": [
+      "desk",
+      "window"
+    ],
+    "emotion": "quiet reflection",
+    "continuity_notes": [
+      "window seat vignette"
+    ]
+  },
+  {
+    "scene": 22,
+    "file": "22.jpg",
+    "text": [],
+    "characters": [
+      "CHAR_05",
+      "unknown classmate"
+    ],
+    "location": "school field",
+    "lighting": "daylight",
+    "shot_type": "wide shot",
+    "camera_angle": "eye level",
+    "actions": [
+      "man rests on mattress"
+    ],
+    "props": [
+      "stacked mattresses",
+      "fence"
+    ],
+    "emotion": "peace",
+    "continuity_notes": [
+      "new location vignette"
+    ]
+  },
+  {
+    "scene": 23,
+    "file": "23.jpg",
+    "text": [
+      {
+        "speaker_exact": "CHAR_06",
+        "dialogue_exact": "Wu...",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      },
+      {
+        "speaker_exact": "UNKNOWN",
+        "dialogue_exact": "......",
+        "confidence": "high",
+        "speaker_confidence": "UNKNOWN",
+        "speaker_evidence": "insufficient evidence"
+      }
+    ],
+    "characters": [
+      "CHAR_06",
+      "unknown classmate"
+    ],
+    "location": "classroom",
+    "lighting": "neutral",
+    "shot_type": "medium-wide",
+    "camera_angle": "eye level",
+    "actions": [
+      "woman cries at desk"
+    ],
+    "props": [
+      "desk",
+      "chair"
+    ],
+    "emotion": "regret",
+    "continuity_notes": []
+  },
+  {
+    "scene": 24,
+    "file": "24.jpg",
+    "text": [
+      {
+        "speaker_exact": "CHAR_07",
+        "dialogue_exact": "Huwaha hahaha!",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      },
+      {
+        "speaker_exact": "UNKNOWN",
+        "dialogue_exact": "Ê chờ tui với!",
+        "confidence": "high",
+        "speaker_confidence": "UNKNOWN",
+        "speaker_evidence": "insufficient evidence"
+      }
+    ],
+    "characters": [
+      "CHAR_07",
+      "unknown classmate"
+    ],
+    "location": "school field",
+    "lighting": "daylight",
+    "shot_type": "wide action shot",
+    "camera_angle": "eye level",
+    "actions": [
+      "run across field"
+    ],
+    "props": [],
+    "emotion": "joy",
+    "continuity_notes": []
+  },
+  {
+    "scene": 25,
+    "file": "25.jpg",
+    "text": [
+      {
+        "speaker_exact": "CHAR_08",
+        "dialogue_exact": "[INDISTINCT CHATTER]",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      }
+    ],
+    "characters": [
+      "CHAR_08",
+      "CHAR_02"
+    ],
+    "location": "school railing",
+    "lighting": "daylight",
+    "shot_type": "wide two-shot",
+    "camera_angle": "eye level",
+    "actions": [
+      "businessman gestures and boasts"
+    ],
+    "props": [
+      "railing"
+    ],
+    "emotion": "boastful/comic",
+    "continuity_notes": [
+      "speech bubble is deliberate graphical shorthand for extended indistinct chatter"
+    ]
+  },
+  {
+    "scene": 26,
+    "file": "26.jpg",
+    "text": [],
+    "characters": [
+      "CHAR_09",
+      "unknown classmate"
+    ],
+    "location": "basketball court",
+    "lighting": "daylight",
+    "shot_type": "wide action shot",
+    "camera_angle": "low-ish",
+    "actions": [
+      "play basketball"
+    ],
+    "props": [
+      "basketball",
+      "hoop"
+    ],
+    "emotion": "playful/aspirational",
+    "continuity_notes": []
+  },
+  {
+    "scene": 27,
+    "file": "27.jpg",
+    "text": [
+      {
+        "speaker_exact": "CHAR_02",
+        "dialogue_exact": "Vậy đó!!! Mặc dù còn nhiều chuyện về bạn học cũ để kể nữa nhưng mà mày đã nghĩ xong về việc muốn làm trong 3 tiếng nữa chưa?",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      },
+      {
+        "speaker_exact": "CHAR_01",
+        "dialogue_exact": "Rồi nha!!! Tao quyết định sẽ xuống căn-tin để ăn bữa ăn ở căn-tin trường cấp ba, đã lâu rồi tao chưa được ăn đó.",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      }
+    ],
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "classroom",
+    "lighting": "neutral",
+    "shot_type": "medium two-shot",
+    "camera_angle": "eye level",
+    "actions": [
+      "both raise hands"
+    ],
+    "props": [],
+    "emotion": "enthusiasm",
+    "continuity_notes": [
+      "returns to central pair"
+    ]
+  },
+  {
+    "scene": 28,
+    "file": "28.jpg",
+    "text": [
+      {
+        "speaker_exact": "CHAR_02",
+        "dialogue_exact": "Vậy đi thôi! Mày làm tao ngạc nhiên hết sức! Chỉ còn chút thời gian mà vẫn nghĩ tới ăn uống cho được!",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      },
+      {
+        "speaker_exact": "CHAR_01",
+        "dialogue_exact": "Tại tao nhớ mùi vị đồ ăn ở căn-tin quá thôi mà!",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      }
+    ],
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "school corridor/canteen",
+    "lighting": "daylight",
+    "shot_type": "medium-wide",
+    "camera_angle": "eye level",
+    "actions": [
+      "walk toward canteen"
+    ],
+    "props": [
+      "door",
+      "tables"
+    ],
+    "emotion": "lighthearted",
+    "continuity_notes": [
+      "location transition"
+    ]
+  },
+  {
+    "scene": 29,
+    "file": "29.jpg",
+    "text": [
+      {
+        "speaker_exact": "CHAR_01",
+        "dialogue_exact": "Có phải mày nhớ cái vị này không?",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      },
+      {
+        "speaker_exact": "CHAR_02",
+        "dialogue_exact": "Chính nó! Chính là cái hương vị này nè~",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      },
+      {
+        "speaker_exact": "CHAR_01",
+        "dialogue_exact": "Hahaha! Hài vãi! Ê, kể vài chuyện của cuộc đời mày cho tao nghe với!",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      }
+    ],
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "canteen",
+    "lighting": "indoor neutral",
+    "shot_type": "wide shot",
+    "camera_angle": "eye level",
+    "actions": [
+      "eat and point at food"
+    ],
+    "props": [
+      "plates",
+      "cups",
+      "food"
+    ],
+    "emotion": "nostalgia/amusement",
+    "continuity_notes": [
+      "food introduced"
+    ]
+  },
+  {
+    "scene": 30,
+    "file": "30.jpg",
+    "text": [
+      {
+        "speaker_exact": "CHAR_01",
+        "dialogue_exact": "[INDISTINCT CHATTER]",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      },
+      {
+        "speaker_exact": "CHAR_02",
+        "dialogue_exact": "[INDISTINCT CHATTER]",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      },
+      {
+        "speaker_exact": "CHAR_01",
+        "dialogue_exact": "[INDISTINCT CHATTER]",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      }
+    ],
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "canteen",
+    "lighting": "indoor neutral",
+    "shot_type": "medium-wide",
+    "camera_angle": "eye level",
+    "actions": [
+      "eat and converse"
+    ],
+    "props": [
+      "plates",
+      "cups",
+      "food"
+    ],
+    "emotion": "companionable",
+    "continuity_notes": [
+      "three bubbles are deliberate graphical shorthand for indistinct chatter"
+    ]
+  },
+  {
+    "scene": 31,
+    "file": "31.jpg",
+    "text": [
+      {
+        "speaker_exact": "CHAR_02",
+        "dialogue_exact": "Hmm, gần đến giờ rồi...",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      },
+      {
+        "speaker_exact": "CHAR_01",
+        "dialogue_exact": "Phải rồi ha, đến giờ tao phải đi rồi~",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      }
+    ],
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "canteen",
+    "lighting": "indoor neutral",
+    "shot_type": "medium two-shot",
+    "camera_angle": "eye level",
+    "actions": [
+      "guide checks time"
+    ],
+    "props": [
+      "watch"
+    ],
+    "emotion": "sad acceptance",
+    "continuity_notes": [
+      "time limit nearing end"
+    ]
+  },
+  {
+    "scene": 32,
+    "file": "32.jpg",
+    "text": [
+      {
+        "speaker_exact": "CHAR_01",
+        "dialogue_exact": "Không ngờ là cuộc đời sau khi tốt nghiệp của chúng ta dù thế nào đi nữa, dù nghèo hay giàu, xấu hay tốt, hạnh phúc hay không thì cuối cùng đích đến vẫn là ở đây~",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      },
+      {
+        "speaker_exact": "CHAR_02",
+        "dialogue_exact": "Hahaha, vậy mày muốn ở đâu có chứ?",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      }
+    ],
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "school gate",
+    "lighting": "daylight",
+    "shot_type": "medium-wide",
+    "camera_angle": "eye level",
+    "actions": [
+      "stand and talk by fence"
+    ],
+    "props": [
+      "chain-link gate",
+      "fence"
+    ],
+    "emotion": "philosophical/friendly",
+    "continuity_notes": [
+      "departure location"
+    ]
+  },
+  {
+    "scene": 33,
+    "file": "33.jpg",
+    "text": [
+      {
+        "speaker_exact": "CHAR_01",
+        "dialogue_exact": "Tao sẽ gặp lại mày lần nữa nếu định mệnh sắp đặt vẫn là bạn cùng lớp. Chào nhé!",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      },
+      {
+        "speaker_exact": "CHAR_02",
+        "dialogue_exact": "Bye~",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      }
+    ],
+    "characters": [
+      "CHAR_01",
+      "CHAR_02"
+    ],
+    "location": "school gate",
+    "lighting": "daylight",
+    "shot_type": "wide shot",
+    "camera_angle": "eye level",
+    "actions": [
+      "student walks away waving; guide waves back"
+    ],
+    "props": [
+      "gate",
+      "fence"
+    ],
+    "emotion": "farewell",
+    "continuity_notes": [
+      "same gate as scene 32"
+    ]
+  },
+  {
+    "scene": 34,
+    "file": "34.jpg",
+    "text": [
+      {
+        "speaker_exact": "CHAR_02",
+        "dialogue_exact": "Được rồi!!! Mình sẽ nhanh chóng hoàn tất bước cuối cùng và cũng lên đường thôi!",
+        "confidence": "high",
+        "speaker_confidence": "HIGH",
+        "speaker_evidence": "visual attachment/turn-taking/direct address"
+      }
+    ],
+    "characters": [
+      "CHAR_02"
+    ],
+    "location": "school exterior",
+    "lighting": "daylight",
+    "shot_type": "wide shot",
+    "camera_angle": "eye level",
+    "actions": [
+      "guide runs toward building"
+    ],
+    "props": [
+      "school building",
+      "windows"
+    ],
+    "emotion": "determined",
+    "continuity_notes": [
+      "guide departs"
+    ]
+  },
+  {
+    "scene": 35,
+    "file": "35.jpg",
+    "text": [],
+    "characters": [
+      "CHAR_02"
+    ],
+    "location": "unknown school interior/exterior transition",
+    "lighting": "neutral",
+    "shot_type": "three-panel sequence",
+    "camera_angle": "eye level",
+    "actions": [
+      "wave, wipe tears, turn away"
+    ],
+    "props": [
+      "food/bun"
+    ],
+    "emotion": "bittersweet",
+    "continuity_notes": [
+      "silent epilogue"
+    ]
+  },
+  {
+    "scene": 36,
+    "file": "36.jpg",
+    "text": [
+      {
+        "speaker_exact": "UNKNOWN",
+        "dialogue_exact": "Tất cả học sinh của lớp 5l cuối cùng cũng đã tốt nghiệp khỏi thế giới này. Xin vĩnh biệt!",
+        "confidence": "high",
+        "speaker_confidence": "UNKNOWN",
+        "speaker_evidence": "insufficient evidence"
+      }
+    ],
+    "characters": [],
+    "location": "empty classroom",
+    "lighting": "neutral",
+    "shot_type": "wide shot",
+    "camera_angle": "eye level",
+    "actions": [
+      "empty room remains"
+    ],
+    "props": [
+      "whiteboard",
+      "desks",
+      "chairs"
+    ],
+    "emotion": "finality",
+    "continuity_notes": [
+      "ending returns to classroom"
+    ]
+  }
+]
