@@ -340,7 +340,7 @@
       "SHOT_048"
     ],
     "priority": "CRITICAL",
-    "status": "GENERATED",
+    "status": "APPROVED",
     "output_path": "assets/characters/CHAR_02_Ah_Da/masters/full_body_3q.png",
     "notes": "Lock permanent face, hair, uniform silhouette, and palette; derive other expressions later.",
     "stage": 1,
@@ -370,7 +370,7 @@
       "SHOT_048"
     ],
     "priority": "CRITICAL",
-    "status": "NOT_GENERATED",
+    "status": "APPROVED",
     "output_path": "assets/characters/CHAR_02_Ah_Da/masters/full_body_side.png",
     "notes": "Lock permanent face, hair, uniform silhouette, and palette; derive other expressions later.",
     "stage": 1,
@@ -400,7 +400,7 @@
       "SHOT_048"
     ],
     "priority": "CRITICAL",
-    "status": "NOT_GENERATED",
+    "status": "APPROVED",
     "output_path": "assets/characters/CHAR_02_Ah_Da/masters/seated_neutral.png",
     "notes": "Lock permanent face, hair, uniform silhouette, and palette; derive other expressions later.",
     "stage": 1,
@@ -429,7 +429,7 @@
       "SHOT_066"
     ],
     "priority": "CRITICAL",
-    "status": "NOT_GENERATED",
+    "status": "APPROVED",
     "output_path": "assets/locations/LOC_01_classroom/masters/master_wide.png",
     "notes": "Keep proportions, pale walls, simple desks, and stable daylight direction.",
     "stage": 2,
@@ -449,7 +449,7 @@
       "SHOT_005"
     ],
     "priority": "CRITICAL",
-    "status": "NOT_GENERATED",
+    "status": "APPROVED",
     "output_path": "assets/locations/LOC_01_classroom/masters/front.png",
     "notes": "Keep proportions, pale walls, simple desks, and stable daylight direction.",
     "stage": 2,
@@ -469,7 +469,7 @@
       "SHOT_038"
     ],
     "priority": "CRITICAL",
-    "status": "NOT_GENERATED",
+    "status": "APPROVED",
     "output_path": "assets/locations/LOC_01_classroom/masters/window_side.png",
     "notes": "Keep proportions, pale walls, simple desks, and stable daylight direction.",
     "stage": 2,
@@ -491,7 +491,7 @@
       "SHOT_035"
     ],
     "priority": "CRITICAL",
-    "status": "NOT_GENERATED",
+    "status": "APPROVED",
     "output_path": "assets/locations/LOC_01_classroom/masters/semicircle.png",
     "notes": "Keep proportions, pale walls, simple desks, and stable daylight direction.",
     "stage": 2,
@@ -513,7 +513,7 @@
       "SHOT_066"
     ],
     "priority": "CRITICAL",
-    "status": "NOT_GENERATED",
+    "status": "APPROVED",
     "output_path": "assets/props/PROP_03_desk_chair/master.png",
     "notes": "Keep proportions, pale walls, simple desks, and stable daylight direction.",
     "stage": 2,
@@ -532,7 +532,7 @@
       "SHOT_048"
     ],
     "priority": "CRITICAL",
-    "status": "NOT_GENERATED",
+    "status": "APPROVED",
     "output_path": "assets/locations/LOC_01_classroom/masters/door_side.png",
     "notes": "Derived classroom door-side geometry; 28.jpg is LOC_07 and is not used.",
     "stage": 2,
@@ -555,7 +555,7 @@
       "SHOT_003"
     ],
     "priority": "HIGH",
-    "status": "NOT_GENERATED",
+    "status": "APPROVED",
     "output_path": "assets/locations/LOC_05_hospital/masters/master_wide.png",
     "notes": "Bed, monitor, dark tubing, and dim clinical lighting.",
     "stage": 3,
@@ -575,7 +575,7 @@
       "SHOT_002"
     ],
     "priority": "HIGH",
-    "status": "NOT_GENERATED",
+    "status": "APPROVED",
     "output_path": "assets/props/PROP_04_hospital_bed/master.png",
     "notes": "Preserve bed silhouette and dark tube path.",
     "stage": 3,
@@ -596,7 +596,7 @@
       "SHOT_005"
     ],
     "priority": "HIGH",
-    "status": "NOT_GENERATED",
+    "status": "APPROVED",
     "output_path": "assets/characters/CHAR_01_Ah_Lim/poses/wake_shocked.png",
     "notes": "Derived from approved master; no new identity features.",
     "stage": 3,
@@ -625,7 +625,7 @@
       "SHOT_008"
     ],
     "priority": "HIGH",
-    "status": "NOT_GENERATED",
+    "status": "APPROVED",
     "output_path": "assets/characters/CHAR_02_Ah_Da/poses/greeting.png",
     "notes": "Use approved face and uniform; expressive greeting only.",
     "stage": 3,
@@ -652,7 +652,7 @@
       "SHOT_008"
     ],
     "priority": "HIGH",
-    "status": "NOT_GENERATED",
+    "status": "APPROVED",
     "output_path": "assets/locations/LOC_01_classroom/variants/reunion_setup.png",
     "notes": "Reuse classroom masters; variant only for character blocking.",
     "stage": 3,
@@ -672,7 +672,7 @@
       "SHOT_041"
     ],
     "priority": "HIGH",
-    "status": "NOT_GENERATED",
+    "status": "APPROVED",
     "output_path": "assets/locations/LOC_02_field/masters/master_wide.png",
     "notes": "Open pale ground, distant fence/buildings.",
     "stage": 4,
@@ -695,7 +695,7 @@
       "SHOT_064"
     ],
     "priority": "HIGH",
-    "status": "NOT_GENERATED",
+    "status": "APPROVED",
     "output_path": "assets/locations/LOC_03_gate/masters/master_wide.png",
     "notes": "Chain-link gate, vertical fence, school facade.",
     "stage": 4,
@@ -716,10 +716,14 @@
       "SHOT_051",
       "SHOT_052",
       "SHOT_053",
-      "SHOT_054"
+      "SHOT_054",
+      "SHOT_055",
+      "SHOT_056",
+      "SHOT_057",
+      "SHOT_058"
     ],
     "priority": "HIGH",
-    "status": "NOT_GENERATED",
+    "status": "APPROVED",
     "output_path": "assets/locations/LOC_04_canteen/masters/master_wide.png",
     "notes": "Tables, benches, plates, cups, neutral indoor light.",
     "stage": 4,
@@ -737,7 +741,7 @@
       "SHOT_045"
     ],
     "priority": "HIGH",
-    "status": "NOT_GENERATED",
+    "status": "APPROVED",
     "output_path": "assets/locations/LOC_06_basketball_court/masters/master_wide.png",
     "notes": "Hoop/backboard at left; distinct canonical location.",
     "stage": 4,
@@ -756,7 +760,7 @@
       "SHOT_049"
     ],
     "priority": "HIGH",
-    "status": "NOT_GENERATED",
+    "status": "APPROVED",
     "output_path": "assets/locations/LOC_07_school_corridor/masters/master_wide.png",
     "notes": "Doorway/threshold before canteen; do not use classroom geometry.",
     "stage": 4,
@@ -774,7 +778,7 @@
       "SHOT_063"
     ],
     "priority": "HIGH",
-    "status": "NOT_GENERATED",
+    "status": "APPROVED",
     "output_path": "assets/locations/LOC_03_gate/variants/facade_run.png",
     "notes": "Stable straight run path toward building.",
     "stage": 4,
@@ -795,7 +799,7 @@
       "SHOT_052"
     ],
     "priority": "HIGH",
-    "status": "NOT_GENERATED",
+    "status": "APPROVED",
     "output_path": "assets/locations/LOC_04_canteen/props/table_set.png",
     "notes": "Two-place eating arrangement.",
     "stage": 4,
@@ -813,7 +817,7 @@
       "SHOT_036"
     ],
     "priority": "MEDIUM",
-    "status": "NOT_GENERATED",
+    "status": "APPROVED",
     "output_path": "assets/characters/CHAR_03_Jenny/portrait.png",
     "notes": "Blue performance outfit and dark hair.",
     "stage": 5,
@@ -837,7 +841,7 @@
       "SHOT_036"
     ],
     "priority": "MEDIUM",
-    "status": "NOT_GENERATED",
+    "status": "GENERATED",
     "output_path": "assets/characters/CHAR_03_Jenny/action.png",
     "notes": "Blue performance outfit and dark hair.",
     "stage": 5,
@@ -861,7 +865,7 @@
       "SHOT_038"
     ],
     "priority": "MEDIUM",
-    "status": "NOT_GENERATED",
+    "status": "APPROVED",
     "output_path": "assets/characters/CHAR_04_Ah_Guang/portrait.png",
     "notes": "Window-seat seated pose.",
     "stage": 5,
@@ -885,7 +889,7 @@
       "SHOT_038"
     ],
     "priority": "MEDIUM",
-    "status": "NOT_GENERATED",
+    "status": "APPROVED",
     "output_path": "assets/characters/CHAR_04_Ah_Guang/action.png",
     "notes": "Window-seat seated pose.",
     "stage": 5,
@@ -909,9 +913,9 @@
       "SHOT_039"
     ],
     "priority": "MEDIUM",
-    "status": "NOT_GENERATED",
+    "status": "APPROVED",
     "output_path": "assets/characters/CHAR_05_Huang_Ming/portrait.png",
-    "notes": "Curled resting pose on mattress.",
+    "notes": "Horizontal side-lying curled resting pose on one temporary pale mattress support; human approval required.",
     "stage": 5,
     "character_id": "CHAR_05",
     "identity_reference": [
@@ -933,7 +937,7 @@
       "SHOT_039"
     ],
     "priority": "MEDIUM",
-    "status": "NOT_GENERATED",
+    "status": "GENERATED",
     "output_path": "assets/characters/CHAR_05_Huang_Ming/action.png",
     "notes": "Curled resting pose on mattress.",
     "stage": 5,
