@@ -1,6 +1,8 @@
 # CHAR_05_ACTION Review
 
-Status: REVIEW_REQUIRED
+Status: APPROVED
+
+Human review result: APPROVED. The human user reviewed and approved this asset for production use.
 
 Compared against the approved `portrait.png`, `22.jpg`, and the requirements for `SHOT_039`.
 
@@ -19,4 +21,4 @@ Compared against the approved `portrait.png`, `22.jpg`, and the requirements for
 
 Failure checks: the asset is side-lying and directionally aligned to `22.jpg`; it is not mirrored, upright, seated while hugging knees, kneeling, flat on the back, standing, generic sleeping, sad, tense, or a multi-character scene.
 
-Human approval is required before this asset is marked APPROVED.
+The asset is approved for production use.

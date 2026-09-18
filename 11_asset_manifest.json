@@ -207,6 +207,78 @@
     ]
   },
   {
+    "asset_id": "CHAR_01_ELDERLY_HOSPITAL_PORTRAIT",
+    "asset_type": "character",
+    "name": "Ah Lim elderly hospital portrait",
+    "purpose": "elderly hospital identity master",
+    "source_images": [
+      "1.jpg",
+      "2.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_001",
+      "SHOT_002",
+      "SHOT_003"
+    ],
+    "priority": "HIGH",
+    "status": "APPROVED",
+    "output_path": "assets/characters/CHAR_01_Ah_Lim/elderly/hospital_portrait.png",
+    "stage": 3.5,
+    "character_id": "CHAR_01",
+    "identity_reference": [
+      "1.jpg",
+      "2.jpg"
+    ],
+    "notes": "Human-approved elderly 90+ hospital-age identity portrait and primary identity authority for elderly hospital variants. Keep separate from young/afterlife Ah Lim and do not use this variant as identity authority for classroom or afterlife shots."
+  },
+  {
+    "asset_id": "CHAR_01_ELDERLY_BED_POSE",
+    "asset_type": "character",
+    "name": "Ah Lim elderly hospital bed pose",
+    "purpose": "elderly hospital action / bed continuity reference",
+    "source_images": [
+      "1.jpg",
+      "2.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_001",
+      "SHOT_002",
+      "SHOT_003"
+    ],
+    "priority": "HIGH",
+    "status": "APPROVED",
+    "output_path": "assets/characters/CHAR_01_Ah_Lim/elderly/bed_pose.png",
+    "stage": 3.5,
+    "character_id": "CHAR_01",
+    "identity_reference": [
+      "assets/characters/CHAR_01_Ah_Lim/elderly/hospital_portrait.png"
+    ],
+    "pose_body_reference": [
+      "1.jpg",
+      "2.jpg"
+    ],
+    "dependency": "CHAR_01_ELDERLY_HOSPITAL_PORTRAIT",
+    "notes": "Human-approved elderly Ah Lim bed pose. Use the approved elderly hospital portrait as identity authority. Keep separate from young/afterlife Ah Lim action assets."
+  },
+  {
+    "asset_id": "EXTRA_HOSPITAL_STAFF_GROUP",
+    "asset_type": "extra_character_group",
+    "name": "Hospital nursing / caregiver staff group",
+    "purpose": "anonymous hospital bedside medical-staff blocking",
+    "source_images": [
+      "1.jpg"
+    ],
+    "required_for_shots": [
+      "SHOT_001",
+      "SHOT_002"
+    ],
+    "priority": "HIGH",
+    "status": "APPROVED",
+    "output_path": "assets/extras/hospital_staff/group.png",
+    "stage": 3.5,
+    "notes": "Human-approved anonymous nursing / hospital caregiver staff surrounding elderly Ah Lim's bed. Keep roles generic; do not invent named doctors, detailed medical ranks, or unsupported equipment."
+  },
+  {
     "asset_id": "CHAR_02_FACE_FRONT_NEUTRAL",
     "asset_type": "character",
     "name": "Ah Da face front neutral",
@@ -841,9 +913,9 @@
       "SHOT_036"
     ],
     "priority": "MEDIUM",
-    "status": "GENERATED",
+    "status": "APPROVED",
     "output_path": "assets/characters/CHAR_03_Jenny/action.png",
-    "notes": "Blue performance outfit and dark hair.",
+    "notes": "Human-approved Jenny standing-on-desk singing action with exactly one handheld microphone; production use approved.",
     "stage": 5,
     "character_id": "CHAR_03",
     "identity_reference": [
@@ -937,7 +1009,7 @@
       "SHOT_039"
     ],
     "priority": "MEDIUM",
-    "status": "GENERATED",
+    "status": "APPROVED",
     "output_path": "assets/characters/CHAR_05_Huang_Ming/action.png",
     "notes": "Curled resting pose on mattress.",
     "stage": 5,
@@ -962,9 +1034,9 @@
       "SHOT_041"
     ],
     "priority": "MEDIUM",
-    "status": "NOT_GENERATED",
+    "status": "APPROVED",
     "output_path": "assets/characters/CHAR_06_May/portrait.png",
-    "notes": "Crying seated pose.",
+    "notes": "Neutral gentle portrait master derived from 23.jpg; human approval required.",
     "stage": 5,
     "character_id": "CHAR_06",
     "identity_reference": [
@@ -987,9 +1059,9 @@
       "SHOT_041"
     ],
     "priority": "MEDIUM",
-    "status": "NOT_GENERATED",
+    "status": "APPROVED",
     "output_path": "assets/characters/CHAR_06_May/action.png",
-    "notes": "Crying seated pose.",
+    "notes": "Intense crying action at one approved PROP_03 desk/chair set; human approval required.",
     "stage": 5,
     "character_id": "CHAR_06",
     "identity_reference": [
@@ -1012,9 +1084,9 @@
       "SHOT_043"
     ],
     "priority": "MEDIUM",
-    "status": "NOT_GENERATED",
+    "status": "APPROVED",
     "output_path": "assets/characters/CHAR_07_Li_Jie/portrait.png",
-    "notes": "Joyful simple run.",
+    "notes": "Neutral youthful portrait master derived from 24.jpg; human approval required.",
     "stage": 5,
     "character_id": "CHAR_07",
     "identity_reference": [
@@ -1037,9 +1109,9 @@
       "SHOT_043"
     ],
     "priority": "MEDIUM",
-    "status": "NOT_GENERATED",
+    "status": "APPROVED",
     "output_path": "assets/characters/CHAR_07_Li_Jie/action.png",
-    "notes": "Joyful simple run.",
+    "notes": "Human-approved dynamic joyful running action aligned to 24.jpg; speed streaks, wind, dust, and other motion FX are deferred to shot/video generation.",
     "stage": 5,
     "character_id": "CHAR_07",
     "identity_reference": [
@@ -1052,54 +1124,6 @@
   {
     "asset_id": "CHAR_08_PORTRAIT",
     "asset_type": "character",
-    "name": "Kim Fook portrait",
-    "purpose": "minimal supporting portrait",
-    "source_images": [
-      "25.jpg"
-    ],
-    "required_for_shots": [
-      "SHOT_044"
-    ],
-    "priority": "MEDIUM",
-    "status": "NOT_GENERATED",
-    "output_path": "assets/characters/CHAR_08_Kim_Fook/portrait.png",
-    "notes": "Glasses and open-arm boast pose.",
-    "stage": 5,
-    "character_id": "CHAR_08",
-    "identity_reference": [
-      "25.jpg"
-    ],
-    "pose_body_reference": [
-      "25.jpg"
-    ]
-  },
-  {
-    "asset_id": "CHAR_08_ACTION",
-    "asset_type": "character",
-    "name": "Kim Fook action reference",
-    "purpose": "required vignette action",
-    "source_images": [
-      "25.jpg"
-    ],
-    "required_for_shots": [
-      "SHOT_044"
-    ],
-    "priority": "MEDIUM",
-    "status": "NOT_GENERATED",
-    "output_path": "assets/characters/CHAR_08_Kim_Fook/action.png",
-    "notes": "Glasses and open-arm boast pose.",
-    "stage": 5,
-    "character_id": "CHAR_08",
-    "identity_reference": [
-      "25.jpg"
-    ],
-    "pose_body_reference": [
-      "25.jpg"
-    ]
-  },
-  {
-    "asset_id": "CHAR_09_PORTRAIT",
-    "asset_type": "character",
     "name": "Anna portrait",
     "purpose": "minimal supporting portrait",
     "source_images": [
@@ -1109,11 +1133,11 @@
       "SHOT_045"
     ],
     "priority": "MEDIUM",
-    "status": "NOT_GENERATED",
-    "output_path": "assets/characters/CHAR_09_Anna/portrait.png",
-    "notes": "Tomboy basketball jump pose.",
+    "status": "APPROVED",
+    "output_path": "assets/characters/CHAR_08_Anna/portrait.png",
+    "notes": "Human-approved primary Anna identity portrait derived from 26.jpg; preserve youthful tomboy appearance, short sandy spiky hair, blue sleeveless top, and slim athletic build.",
     "stage": 5,
-    "character_id": "CHAR_09",
+    "character_id": "CHAR_08",
     "identity_reference": [
       "26.jpg"
     ],
@@ -1122,9 +1146,9 @@
     ]
   },
   {
-    "asset_id": "CHAR_09_ACTION",
+    "asset_id": "CHAR_08_ACTION",
     "asset_type": "character",
-    "name": "Anna action reference",
+    "name": "Anna basketball action reference",
     "purpose": "required vignette action",
     "source_images": [
       "26.jpg"
@@ -1133,13 +1157,13 @@
       "SHOT_045"
     ],
     "priority": "MEDIUM",
-    "status": "NOT_GENERATED",
-    "output_path": "assets/characters/CHAR_09_Anna/action.png",
-    "notes": "Tomboy basketball jump pose.",
+    "status": "APPROVED",
+    "output_path": "assets/characters/CHAR_08_Anna/action.png",
+    "notes": "Human-approved dynamic full-body basketball action inspired by 26.jpg with exactly one basketball; motion FX are deferred to shot/video generation.",
     "stage": 5,
-    "character_id": "CHAR_09",
+    "character_id": "CHAR_08",
     "identity_reference": [
-      "26.jpg"
+      "assets/characters/CHAR_08_Anna/portrait.png"
     ],
     "pose_body_reference": [
       "26.jpg"
@@ -1159,7 +1183,7 @@
       "SHOT_054"
     ],
     "priority": "LOW",
-    "status": "NOT_GENERATED",
+    "status": "GENERATED",
     "output_path": "assets/props/PROP_01_watch/master.png",
     "notes": "Small dark-band watch; maintain wrist placement.",
     "stage": 6,
@@ -1199,9 +1223,9 @@
       "SHOT_053"
     ],
     "priority": "LOW",
-    "status": "NOT_GENERATED",
+    "status": "APPROVED",
     "output_path": "assets/props/PROP_05_canteen_meal/master.png",
-    "notes": "Simple plates/cups; no added branding.",
+    "notes": "Generated two modest canteen meal settings with exactly two plates/bowls and two plain cups; no added branding; human approval required.",
     "stage": 6,
     "prop_id": "PROP_05"
   },
@@ -1217,9 +1241,9 @@
       "SHOT_039"
     ],
     "priority": "LOW",
-    "status": "NOT_GENERATED",
+    "status": "APPROVED",
     "output_path": "assets/props/PROP_06_mattress_stack/master.png",
-    "notes": "Two/three pale mattresses.",
+    "notes": "Human-approved three-layer pale mattress stack with broad stable top surface for Huang Ming's curled pose.",
     "stage": 6,
     "prop_id": "PROP_06"
   },
@@ -1271,7 +1295,7 @@
       "SHOT_066"
     ],
     "priority": "LOW",
-    "status": "NOT_GENERATED",
+    "status": "GENERATED",
     "output_path": "assets/props/PROP_09_whiteboard/master.png",
     "notes": "Keep farewell board as source-referenced text asset.",
     "stage": 6,
