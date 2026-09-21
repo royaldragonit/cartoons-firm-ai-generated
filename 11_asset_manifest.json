@@ -1183,9 +1183,9 @@
       "SHOT_054"
     ],
     "priority": "LOW",
-    "status": "GENERATED",
+    "status": "NOT_GENERATED",
     "output_path": "assets/props/PROP_01_watch/master.png",
-    "notes": "Small dark-band watch; maintain wrist placement.",
+    "notes": "Deferred low-priority prop. Previous GENERATED status was invalid because the expected output/review files were missing after project migration. Regenerate only if SHOT_013 or SHOT_054 later requires a visible watch.",
     "stage": 6,
     "prop_id": "PROP_01"
   },
@@ -1259,7 +1259,7 @@
       "SHOT_045"
     ],
     "priority": "LOW",
-    "status": "NOT_GENERATED",
+    "status": "APPROVED",
     "output_path": "assets/props/PROP_07_basketball_hoop/master.png",
     "notes": "One ball; static hoop/backboard.",
     "stage": 6,
@@ -1277,7 +1277,7 @@
       "SHOT_044"
     ],
     "priority": "LOW",
-    "status": "NOT_GENERATED",
+    "status": "GENERATED",
     "output_path": "assets/props/PROP_08_railing/master.png",
     "notes": "Horizontal rail with evenly spaced vertical bars.",
     "stage": 6,
@@ -1295,7 +1295,7 @@
       "SHOT_066"
     ],
     "priority": "LOW",
-    "status": "GENERATED",
+    "status": "APPROVED",
     "output_path": "assets/props/PROP_09_whiteboard/master.png",
     "notes": "Keep farewell board as source-referenced text asset.",
     "stage": 6,
