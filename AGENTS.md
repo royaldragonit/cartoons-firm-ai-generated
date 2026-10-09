@@ -1,7 +1,7 @@
 # Project operating instructions
 
 - Read `PROJECT_STATE.md` first, then `11_asset_manifest.json` before acting. The manifest governs current asset IDs and statuses; older plans and review notes may be stale.
-- Use only `D:\Projects\cartoons-firm-ai-generated` as the project root. Do not rewrite historical paths unless an operational path is actually broken.
+- Use the current repository root / current working directory as the project root. Prefer repository-relative paths.
 - Workflow: `NOT_GENERATED` -> `GENERATED` -> `APPROVED`. Only explicit human approval permits approval; automated checks never do.
 - Never modify or regenerate an approved asset without explicit human instruction, including when an audit identifies a defect.
 - Generate only the explicitly requested asset, then stop. Do not advance the queue or expand the requested scope.

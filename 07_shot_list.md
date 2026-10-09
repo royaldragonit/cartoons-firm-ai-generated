@@ -1145,7 +1145,7 @@ AI generation notes: Keep one primary action and stable background; preserve sto
 
 Source panels: 25.jpg
 
-Location: LOC_01
+Location: LOC_03
 Location reference: 25.jpg
 
 ### SHOT_044
@@ -1154,7 +1154,7 @@ Source panel: 25.jpg
 Derived shot: NO
 
 Characters: CHAR_08, CHAR_02
-Location: LOC_01
+Location: LOC_03
 Shot type: WIDE
 Camera angle: eye level
 Camera movement: very slight push-in

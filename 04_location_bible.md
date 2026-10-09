@@ -10,10 +10,10 @@ Appears in: 22, 24
 Persistent features: broad open ground, distant fence/goal/buildings, simple horizon lines, daylight.
 Best references: 22.jpg, 24.jpg.
 
-## LOC_03 — school gate / perimeter fence
-Appears in: 32–35
-Persistent features: chain-link gate, vertical fence, school building exterior, open path.
-Best references: 32.jpg, 33.jpg, 34.jpg.
+## LOC_03 — school gate / perimeter fence and school-building exterior balcony
+Appears in: 25, 32–35
+Persistent features: chain-link gate, vertical fence, school building exterior, open path, and compatible school-building balcony / walkway railing architecture.
+Best references: 25.jpg, 32.jpg, 33.jpg, 34.jpg.
 
 ## LOC_04 — school canteen / cafeteria
 Appears in: 28–30

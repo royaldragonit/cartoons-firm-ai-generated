@@ -1,0 +1,2969 @@
+{
+  "summary": {
+    "ready": 8,
+    "ready_with_blocking_reference": 53,
+    "blocked": 5,
+    "text_lock_shots": 2,
+    "video_stage_fx_shots": 4,
+    "stale_metadata_issues": 10,
+    "prop_01_watch_blocks_production": true
+  },
+  "shots": [
+    {
+      "shot_id": "SHOT_001",
+      "scene": 1,
+      "source_panels": [
+        "1.jpg"
+      ],
+      "location_id": "LOC_05",
+      "characters": [
+        "CHAR_01 elderly hospital variant",
+        "anonymous hospital staff/extras"
+      ],
+      "props": [
+        "PROP_04_BED_TUBING"
+      ],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_05_HOSPITAL_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_ELDERLY_HOSPITAL_PORTRAIT",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_ELDERLY_BED_POSE",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "EXTRA_HOSPITAL_STAFF_GROUP",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_04_BED_TUBING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Use canonical EXTRA_HOSPITAL_STAFF_GROUP; old family/visitors wording is stale."
+      ]
+    },
+    {
+      "shot_id": "SHOT_002",
+      "scene": 1,
+      "source_panels": [
+        "1.jpg"
+      ],
+      "location_id": "LOC_05",
+      "characters": [
+        "CHAR_01 elderly hospital variant",
+        "anonymous hospital staff/extras"
+      ],
+      "props": [
+        "PROP_04_BED_TUBING"
+      ],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_05_HOSPITAL_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_ELDERLY_HOSPITAL_PORTRAIT",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_ELDERLY_BED_POSE",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "EXTRA_HOSPITAL_STAFF_GROUP",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_04_BED_TUBING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Use canonical EXTRA_HOSPITAL_STAFF_GROUP; old family/visitors wording is stale."
+      ]
+    },
+    {
+      "shot_id": "SHOT_003",
+      "scene": 1,
+      "source_panels": [
+        "2.jpg"
+      ],
+      "location_id": "LOC_05",
+      "characters": [
+        "CHAR_01 elderly hospital variant"
+      ],
+      "props": [],
+      "status": "READY",
+      "blocking_reference_required": false,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_05_HOSPITAL_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_ELDERLY_HOSPITAL_PORTRAIT",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_ELDERLY_BED_POSE",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Direct-generation candidate from approved masters; no special blocking reference required."
+      ]
+    },
+    {
+      "shot_id": "SHOT_004",
+      "scene": 2,
+      "source_panels": [
+        "3.jpg"
+      ],
+      "location_id": "LOC_01",
+      "characters": [
+        "CHAR_01 young/afterlife",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [
+        "PROP_03_DESK_CHAIR_MASTER"
+      ],
+      "status": "READY",
+      "blocking_reference_required": false,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_01_FRONT",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_SHOCK_WAKE_POSE",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_03_DESK_CHAIR_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Direct-generation candidate from approved masters; no special blocking reference required."
+      ]
+    },
+    {
+      "shot_id": "SHOT_005",
+      "scene": 2,
+      "source_panels": [
+        "3.jpg"
+      ],
+      "location_id": "LOC_01",
+      "characters": [
+        "CHAR_01 young/afterlife",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [
+        "PROP_03_DESK_CHAIR_MASTER"
+      ],
+      "status": "READY",
+      "blocking_reference_required": false,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_01_FRONT",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_SHOCK_WAKE_POSE",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_03_DESK_CHAIR_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Direct-generation candidate from approved masters; no special blocking reference required."
+      ]
+    },
+    {
+      "shot_id": "SHOT_006",
+      "scene": 2,
+      "source_panels": [
+        "3.jpg"
+      ],
+      "location_id": "LOC_01",
+      "characters": [
+        "CHAR_01 young/afterlife",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [
+        "PROP_03_DESK_CHAIR_MASTER"
+      ],
+      "status": "READY",
+      "blocking_reference_required": false,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_01_MASTER_WIDE",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_03_DESK_CHAIR_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Direct-generation candidate from approved masters; no special blocking reference required."
+      ]
+    },
+    {
+      "shot_id": "SHOT_007",
+      "scene": 2,
+      "source_panels": [
+        "4.jpg"
+      ],
+      "location_id": "LOC_01",
+      "characters": [
+        "CHAR_01 young/afterlife",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [
+        "PROP_03_DESK_CHAIR_MASTER"
+      ],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_01_REUNION_SETUP",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_SHOCK_WAKE_POSE",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_GREETING_POSE",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_03_DESK_CHAIR_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Approved assets are available; create a source-specific blocking/keyframe reference before shot rendering."
+      ]
+    },
+    {
+      "shot_id": "SHOT_008",
+      "scene": 2,
+      "source_panels": [
+        "4.jpg"
+      ],
+      "location_id": "LOC_01",
+      "characters": [
+        "CHAR_01 young/afterlife",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [
+        "PROP_03_DESK_CHAIR_MASTER"
+      ],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_01_REUNION_SETUP",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_SHOCK_WAKE_POSE",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_GREETING_POSE",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_03_DESK_CHAIR_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Approved assets are available; create a source-specific blocking/keyframe reference before shot rendering."
+      ]
+    },
+    {
+      "shot_id": "SHOT_009",
+      "scene": 2,
+      "source_panels": [
+        "5.jpg"
+      ],
+      "location_id": "LOC_01",
+      "characters": [
+        "CHAR_01 young/afterlife",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [
+        "PROP_03_DESK_CHAIR_MASTER"
+      ],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_01_MASTER_WIDE",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_03_DESK_CHAIR_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Approved assets are available; create a source-specific blocking/keyframe reference before shot rendering."
+      ]
+    },
+    {
+      "shot_id": "SHOT_010",
+      "scene": 2,
+      "source_panels": [
+        "5.jpg"
+      ],
+      "location_id": "LOC_01",
+      "characters": [
+        "CHAR_01 young/afterlife",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [
+        "PROP_03_DESK_CHAIR_MASTER"
+      ],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_01_MASTER_WIDE",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_03_DESK_CHAIR_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Approved assets are available; create a source-specific blocking/keyframe reference before shot rendering."
+      ]
+    },
+    {
+      "shot_id": "SHOT_011",
+      "scene": 2,
+      "source_panels": [
+        "6.jpg"
+      ],
+      "location_id": "LOC_01",
+      "characters": [
+        "CHAR_01 young/afterlife",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [
+        "PROP_02_ATTENDANCE_PAPER"
+      ],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": true,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_01_MASTER_WIDE",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_02_ATTENDANCE_PAPER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "TEXT_LOCK_REQUIRED: use approved deterministic attendance paper; source panel 6 corresponds to SHOT_011 while the manifest dependency is stale at SHOT_012."
+      ]
+    },
+    {
+      "shot_id": "SHOT_012",
+      "scene": 2,
+      "source_panels": [
+        "7.jpg"
+      ],
+      "location_id": "LOC_01",
+      "characters": [
+        "CHAR_01 young/afterlife",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [
+        "PROP_03_DESK_CHAIR_MASTER"
+      ],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_01_MASTER_WIDE",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_03_DESK_CHAIR_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Approved assets are available; create a source-specific blocking/keyframe reference before shot rendering."
+      ]
+    },
+    {
+      "shot_id": "SHOT_013",
+      "scene": 2,
+      "source_panels": [
+        "7.jpg"
+      ],
+      "location_id": "LOC_01",
+      "characters": [
+        "CHAR_01 young/afterlife",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [
+        "PROP_03_DESK_CHAIR_MASTER"
+      ],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_01_MASTER_WIDE",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_03_DESK_CHAIR_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Approved assets are available; create a source-specific blocking/keyframe reference before shot rendering."
+      ]
+    },
+    {
+      "shot_id": "SHOT_014",
+      "scene": 2,
+      "source_panels": [
+        "8.jpg"
+      ],
+      "location_id": "LOC_01",
+      "characters": [
+        "CHAR_01 young/afterlife",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [
+        "PROP_03_DESK_CHAIR_MASTER"
+      ],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_01_MASTER_WIDE",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_03_DESK_CHAIR_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Approved assets are available; create a source-specific blocking/keyframe reference before shot rendering."
+      ]
+    },
+    {
+      "shot_id": "SHOT_015",
+      "scene": 2,
+      "source_panels": [
+        "8.jpg"
+      ],
+      "location_id": "LOC_01",
+      "characters": [
+        "CHAR_01 young/afterlife",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [
+        "PROP_03_DESK_CHAIR_MASTER"
+      ],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_01_MASTER_WIDE",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_03_DESK_CHAIR_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Approved assets are available; create a source-specific blocking/keyframe reference before shot rendering."
+      ]
+    },
+    {
+      "shot_id": "SHOT_016",
+      "scene": 2,
+      "source_panels": [
+        "9.jpg"
+      ],
+      "location_id": "LOC_01",
+      "characters": [
+        "CHAR_01 young/afterlife",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [
+        "PROP_03_DESK_CHAIR_MASTER"
+      ],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_01_MASTER_WIDE",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_03_DESK_CHAIR_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Approved assets are available; create a source-specific blocking/keyframe reference before shot rendering."
+      ]
+    },
+    {
+      "shot_id": "SHOT_017",
+      "scene": 2,
+      "source_panels": [
+        "9.jpg"
+      ],
+      "location_id": "LOC_01",
+      "characters": [
+        "CHAR_01 young/afterlife",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [
+        "PROP_03_DESK_CHAIR_MASTER"
+      ],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_01_MASTER_WIDE",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_03_DESK_CHAIR_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Approved assets are available; create a source-specific blocking/keyframe reference before shot rendering."
+      ]
+    },
+    {
+      "shot_id": "SHOT_018",
+      "scene": 3,
+      "source_panels": [
+        "10.jpg"
+      ],
+      "location_id": "LOC_01",
+      "characters": [
+        "CHAR_01 young/afterlife",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [
+        "PROP_01_WATCH"
+      ],
+      "status": "BLOCKED",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_01_MASTER_WIDE",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_01_WATCH",
+          "classification": "MISSING_BLOCKER",
+          "note": "NOT_GENERATED; source makes the wristwatch visible/story-critical in this shot."
+        }
+      ],
+      "blockers": [
+        "BLOCKED: PROP_01_WATCH is absent; 10.jpg visibly uses the wristwatch for the three-hour story beat."
+      ],
+      "notes": [
+        "BLOCKED: PROP_01_WATCH is absent; 10.jpg visibly uses the wristwatch for the three-hour story beat."
+      ]
+    },
+    {
+      "shot_id": "SHOT_019",
+      "scene": 3,
+      "source_panels": [
+        "10.jpg"
+      ],
+      "location_id": "LOC_01",
+      "characters": [
+        "CHAR_01 young/afterlife",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [
+        "PROP_01_WATCH"
+      ],
+      "status": "BLOCKED",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_01_MASTER_WIDE",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_01_WATCH",
+          "classification": "MISSING_BLOCKER",
+          "note": "NOT_GENERATED; source makes the wristwatch visible/story-critical in this shot."
+        }
+      ],
+      "blockers": [
+        "BLOCKED: PROP_01_WATCH is absent; 10.jpg visibly uses the wristwatch for the three-hour story beat."
+      ],
+      "notes": [
+        "BLOCKED: PROP_01_WATCH is absent; 10.jpg visibly uses the wristwatch for the three-hour story beat."
+      ]
+    },
+    {
+      "shot_id": "SHOT_020",
+      "scene": 3,
+      "source_panels": [
+        "11.jpg"
+      ],
+      "location_id": "LOC_01",
+      "characters": [
+        "CHAR_01 young/afterlife",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [
+        "PROP_03_DESK_CHAIR_MASTER"
+      ],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_01_MASTER_WIDE",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_03_DESK_CHAIR_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Approved assets are available; create a source-specific blocking/keyframe reference before shot rendering."
+      ]
+    },
+    {
+      "shot_id": "SHOT_021",
+      "scene": 3,
+      "source_panels": [
+        "11.jpg"
+      ],
+      "location_id": "LOC_01",
+      "characters": [
+        "CHAR_01 young/afterlife",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [
+        "PROP_03_DESK_CHAIR_MASTER"
+      ],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_01_MASTER_WIDE",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_03_DESK_CHAIR_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Approved assets are available; create a source-specific blocking/keyframe reference before shot rendering."
+      ]
+    },
+    {
+      "shot_id": "SHOT_022",
+      "scene": 3,
+      "source_panels": [
+        "12.jpg"
+      ],
+      "location_id": "LOC_01",
+      "characters": [
+        "CHAR_01 young/afterlife",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [
+        "PROP_03_DESK_CHAIR_MASTER"
+      ],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_01_MASTER_WIDE",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_03_DESK_CHAIR_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Approved assets are available; create a source-specific blocking/keyframe reference before shot rendering."
+      ]
+    },
+    {
+      "shot_id": "SHOT_023",
+      "scene": 3,
+      "source_panels": [
+        "12.jpg"
+      ],
+      "location_id": "LOC_01",
+      "characters": [
+        "CHAR_01 young/afterlife",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [
+        "PROP_03_DESK_CHAIR_MASTER"
+      ],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_01_MASTER_WIDE",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_03_DESK_CHAIR_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Approved assets are available; create a source-specific blocking/keyframe reference before shot rendering."
+      ]
+    },
+    {
+      "shot_id": "SHOT_024",
+      "scene": 3,
+      "source_panels": [
+        "13.jpg"
+      ],
+      "location_id": "LOC_01",
+      "characters": [
+        "CHAR_01 young/afterlife",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [
+        "PROP_03_DESK_CHAIR_MASTER"
+      ],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_01_MASTER_WIDE",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_03_DESK_CHAIR_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Approved assets are available; create a source-specific blocking/keyframe reference before shot rendering."
+      ]
+    },
+    {
+      "shot_id": "SHOT_025",
+      "scene": 3,
+      "source_panels": [
+        "13.jpg"
+      ],
+      "location_id": "LOC_01",
+      "characters": [
+        "CHAR_01 young/afterlife",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [
+        "PROP_03_DESK_CHAIR_MASTER"
+      ],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_01_MASTER_WIDE",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_03_DESK_CHAIR_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Approved assets are available; create a source-specific blocking/keyframe reference before shot rendering."
+      ]
+    },
+    {
+      "shot_id": "SHOT_026",
+      "scene": 3,
+      "source_panels": [
+        "14.jpg"
+      ],
+      "location_id": "LOC_01",
+      "characters": [
+        "CHAR_01 young/afterlife",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [
+        "PROP_03_DESK_CHAIR_MASTER"
+      ],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_01_MASTER_WIDE",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_03_DESK_CHAIR_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Approved assets are available; create a source-specific blocking/keyframe reference before shot rendering."
+      ]
+    },
+    {
+      "shot_id": "SHOT_027",
+      "scene": 3,
+      "source_panels": [
+        "14.jpg"
+      ],
+      "location_id": "LOC_01",
+      "characters": [
+        "CHAR_01 young/afterlife",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [
+        "PROP_03_DESK_CHAIR_MASTER"
+      ],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_01_MASTER_WIDE",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_03_DESK_CHAIR_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Approved assets are available; create a source-specific blocking/keyframe reference before shot rendering."
+      ]
+    },
+    {
+      "shot_id": "SHOT_028",
+      "scene": 3,
+      "source_panels": [
+        "15.jpg"
+      ],
+      "location_id": "LOC_01",
+      "characters": [
+        "CHAR_01 young/afterlife",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [
+        "PROP_03_DESK_CHAIR_MASTER"
+      ],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_01_SEMICIRCLE",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_03_DESK_CHAIR_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Approved assets are available; create a source-specific blocking/keyframe reference before shot rendering."
+      ]
+    },
+    {
+      "shot_id": "SHOT_029",
+      "scene": 3,
+      "source_panels": [
+        "15.jpg"
+      ],
+      "location_id": "LOC_01",
+      "characters": [
+        "CHAR_01 young/afterlife",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [
+        "PROP_03_DESK_CHAIR_MASTER"
+      ],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_01_SEMICIRCLE",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_03_DESK_CHAIR_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Approved assets are available; create a source-specific blocking/keyframe reference before shot rendering."
+      ]
+    },
+    {
+      "shot_id": "SHOT_030",
+      "scene": 3,
+      "source_panels": [
+        "16.jpg"
+      ],
+      "location_id": "LOC_01",
+      "characters": [
+        "CHAR_01 young/afterlife",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [
+        "PROP_03_DESK_CHAIR_MASTER"
+      ],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_01_SEMICIRCLE",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_03_DESK_CHAIR_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Approved assets are available; create a source-specific blocking/keyframe reference before shot rendering."
+      ]
+    },
+    {
+      "shot_id": "SHOT_031",
+      "scene": 3,
+      "source_panels": [
+        "16.jpg"
+      ],
+      "location_id": "LOC_01",
+      "characters": [
+        "CHAR_01 young/afterlife",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [
+        "PROP_03_DESK_CHAIR_MASTER"
+      ],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_01_SEMICIRCLE",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_03_DESK_CHAIR_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Approved assets are available; create a source-specific blocking/keyframe reference before shot rendering."
+      ]
+    },
+    {
+      "shot_id": "SHOT_032",
+      "scene": 3,
+      "source_panels": [
+        "17.jpg"
+      ],
+      "location_id": "LOC_01",
+      "characters": [
+        "CHAR_01 young/afterlife",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [
+        "PROP_03_DESK_CHAIR_MASTER"
+      ],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_01_SEMICIRCLE",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_03_DESK_CHAIR_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Approved assets are available; create a source-specific blocking/keyframe reference before shot rendering."
+      ]
+    },
+    {
+      "shot_id": "SHOT_033",
+      "scene": 3,
+      "source_panels": [
+        "17.jpg"
+      ],
+      "location_id": "LOC_01",
+      "characters": [
+        "CHAR_01 young/afterlife",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [
+        "PROP_03_DESK_CHAIR_MASTER"
+      ],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_01_SEMICIRCLE",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_03_DESK_CHAIR_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Approved assets are available; create a source-specific blocking/keyframe reference before shot rendering."
+      ]
+    },
+    {
+      "shot_id": "SHOT_034",
+      "scene": 3,
+      "source_panels": [
+        "18.jpg"
+      ],
+      "location_id": "LOC_01",
+      "characters": [
+        "CHAR_01 young/afterlife",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [
+        "PROP_03_DESK_CHAIR_MASTER"
+      ],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_01_SEMICIRCLE",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_03_DESK_CHAIR_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Approved assets are available; create a source-specific blocking/keyframe reference before shot rendering."
+      ]
+    },
+    {
+      "shot_id": "SHOT_035",
+      "scene": 3,
+      "source_panels": [
+        "18.jpg"
+      ],
+      "location_id": "LOC_01",
+      "characters": [
+        "CHAR_01 young/afterlife",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [
+        "PROP_03_DESK_CHAIR_MASTER"
+      ],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_01_SEMICIRCLE",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_FACE_3Q_TALKING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_03_DESK_CHAIR_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Approved assets are available; create a source-specific blocking/keyframe reference before shot rendering."
+      ]
+    },
+    {
+      "shot_id": "SHOT_036",
+      "scene": 4,
+      "source_panels": [
+        "19.jpg"
+      ],
+      "location_id": "LOC_01",
+      "characters": [
+        "CHAR_03 Jenny",
+        "unknown classmate/extras"
+      ],
+      "props": [
+        "PROP_03_DESK_CHAIR_MASTER"
+      ],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_01_SEMICIRCLE",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_03_ACTION",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_03_DESK_CHAIR_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Approved assets are available; create a source-specific blocking/keyframe reference before shot rendering."
+      ]
+    },
+    {
+      "shot_id": "SHOT_037",
+      "scene": 5,
+      "source_panels": [
+        "20.jpg"
+      ],
+      "location_id": "LOC_01",
+      "characters": [],
+      "props": [
+        "PROP_03_DESK_CHAIR_MASTER"
+      ],
+      "status": "READY",
+      "blocking_reference_required": false,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_01_WINDOW_SIDE",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_03_DESK_CHAIR_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Direct-generation candidate from approved masters; no special blocking reference required."
+      ]
+    },
+    {
+      "shot_id": "SHOT_038",
+      "scene": 5,
+      "source_panels": [
+        "21.jpg"
+      ],
+      "location_id": "LOC_01",
+      "characters": [
+        "CHAR_04 Ah Guang",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [
+        "PROP_03_DESK_CHAIR_MASTER"
+      ],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_01_WINDOW_SIDE",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_04_ACTION",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_SEATED_NEUTRAL",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_03_DESK_CHAIR_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Approved assets are available; create a source-specific blocking/keyframe reference before shot rendering."
+      ]
+    },
+    {
+      "shot_id": "SHOT_039",
+      "scene": 6,
+      "source_panels": [
+        "22.jpg"
+      ],
+      "location_id": "LOC_02",
+      "characters": [
+        "CHAR_05 Huang Ming",
+        "unknown classmate/extras"
+      ],
+      "props": [
+        "PROP_06_MATTRESS_STACK"
+      ],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_02_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_05_ACTION",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_06_MATTRESS_STACK",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Approved assets are available; create a source-specific blocking/keyframe reference before shot rendering."
+      ]
+    },
+    {
+      "shot_id": "SHOT_040",
+      "scene": 7,
+      "source_panels": [
+        "23.jpg"
+      ],
+      "location_id": "LOC_01",
+      "characters": [
+        "CHAR_06 May",
+        "unknown classmate/extras"
+      ],
+      "props": [
+        "PROP_03_DESK_CHAIR_MASTER"
+      ],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_01_MASTER_WIDE",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_06_ACTION",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_03_DESK_CHAIR_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Approved assets are available; create a source-specific blocking/keyframe reference before shot rendering."
+      ]
+    },
+    {
+      "shot_id": "SHOT_041",
+      "scene": 7,
+      "source_panels": [
+        "23.jpg"
+      ],
+      "location_id": "LOC_01",
+      "characters": [
+        "CHAR_06 May",
+        "unknown classmate/extras"
+      ],
+      "props": [
+        "PROP_03_DESK_CHAIR_MASTER"
+      ],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_01_MASTER_WIDE",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_06_ACTION",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_03_DESK_CHAIR_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Approved assets are available; create a source-specific blocking/keyframe reference before shot rendering."
+      ]
+    },
+    {
+      "shot_id": "SHOT_042",
+      "scene": 8,
+      "source_panels": [
+        "24.jpg"
+      ],
+      "location_id": "LOC_02",
+      "characters": [
+        "CHAR_07 Li Jie",
+        "unknown classmate/extras"
+      ],
+      "props": [],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "VIDEO_STAGE_FX",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_02_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_07_ACTION",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Motion accents are VIDEO_STAGE_FX; do not create a reusable FX asset."
+      ]
+    },
+    {
+      "shot_id": "SHOT_043",
+      "scene": 8,
+      "source_panels": [
+        "24.jpg"
+      ],
+      "location_id": "LOC_02",
+      "characters": [
+        "CHAR_07 Li Jie",
+        "unknown classmate/extras"
+      ],
+      "props": [],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "VIDEO_STAGE_FX",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_02_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_07_ACTION",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Motion accents are VIDEO_STAGE_FX; do not create a reusable FX asset."
+      ]
+    },
+    {
+      "shot_id": "SHOT_044",
+      "scene": 9,
+      "source_panels": [
+        "25.jpg"
+      ],
+      "location_id": "LOC_03",
+      "characters": [
+        "Kim Fook — missing canonical master; stale shot ID is CHAR_08",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [
+        "PROP_08_RAILING"
+      ],
+      "status": "BLOCKED",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_03_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "KIM_FOOK_CHARACTER_MASTER",
+          "classification": "MISSING_BLOCKER",
+          "note": "No canonical Kim Fook character master exists; do not substitute CHAR_08 Anna."
+        },
+        {
+          "asset_id": "CHAR_02_FULL_BODY_FRONT",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_08_RAILING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [
+        "BLOCKED: source is Kim Fook, but metadata assigns CHAR_08, which is canonical Anna; no Kim Fook master is available."
+      ],
+      "notes": [
+        "BLOCKED: source is Kim Fook, but metadata assigns CHAR_08, which is canonical Anna; no Kim Fook master is available."
+      ]
+    },
+    {
+      "shot_id": "SHOT_045",
+      "scene": 10,
+      "source_panels": [
+        "26.jpg"
+      ],
+      "location_id": "LOC_06",
+      "characters": [
+        "CHAR_08 Anna — canonical; stale shot ID is CHAR_09",
+        "unknown classmate/extras"
+      ],
+      "props": [
+        "PROP_07_BASKETBALL_HOOP"
+      ],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "VIDEO_STAGE_FX",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_06_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_08_ACTION",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_07_BASKETBALL_HOOP",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Canonicalize stale CHAR_09 to approved CHAR_08 Anna before rendering; preserve source-specific basketball blocking.",
+        "Motion accents are VIDEO_STAGE_FX; do not create a reusable FX asset."
+      ]
+    },
+    {
+      "shot_id": "SHOT_046",
+      "scene": 11,
+      "source_panels": [
+        "27.jpg"
+      ],
+      "location_id": "LOC_01",
+      "characters": [
+        "CHAR_01 young/afterlife",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [
+        "PROP_03_DESK_CHAIR_MASTER"
+      ],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_01_MASTER_WIDE",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_FULL_BODY_3Q",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_FULL_BODY_3Q",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_03_DESK_CHAIR_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Approved assets are available; create a source-specific blocking/keyframe reference before shot rendering."
+      ]
+    },
+    {
+      "shot_id": "SHOT_047",
+      "scene": 11,
+      "source_panels": [
+        "27.jpg"
+      ],
+      "location_id": "LOC_01",
+      "characters": [
+        "CHAR_01 young/afterlife",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [
+        "PROP_03_DESK_CHAIR_MASTER"
+      ],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_01_MASTER_WIDE",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_FULL_BODY_3Q",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_FULL_BODY_3Q",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_03_DESK_CHAIR_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Approved assets are available; create a source-specific blocking/keyframe reference before shot rendering."
+      ]
+    },
+    {
+      "shot_id": "SHOT_048",
+      "scene": 11,
+      "source_panels": [
+        "28.jpg"
+      ],
+      "location_id": "LOC_07",
+      "characters": [
+        "CHAR_01 young/afterlife",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_07_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_FULL_BODY_3Q",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_FULL_BODY_3Q",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Use LOC_07 school corridor; any LOC_01 door-side association is stale."
+      ]
+    },
+    {
+      "shot_id": "SHOT_049",
+      "scene": 11,
+      "source_panels": [
+        "28.jpg"
+      ],
+      "location_id": "LOC_07",
+      "characters": [
+        "CHAR_01 young/afterlife",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_07_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_FULL_BODY_3Q",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_FULL_BODY_3Q",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Use LOC_07 school corridor; any LOC_01 door-side association is stale."
+      ]
+    },
+    {
+      "shot_id": "SHOT_050",
+      "scene": 12,
+      "source_panels": [
+        "29.jpg"
+      ],
+      "location_id": "LOC_04",
+      "characters": [
+        "CHAR_01 young/afterlife",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [
+        "PROP_05_CANTEEN_MEAL",
+        "LOC_04_TABLE_SET"
+      ],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_04_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_FULL_BODY_3Q",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_FULL_BODY_3Q",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_05_CANTEEN_MEAL",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "LOC_04_TABLE_SET",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Approved assets are available; create a source-specific blocking/keyframe reference before shot rendering."
+      ]
+    },
+    {
+      "shot_id": "SHOT_051",
+      "scene": 12,
+      "source_panels": [
+        "29.jpg"
+      ],
+      "location_id": "LOC_04",
+      "characters": [
+        "CHAR_01 young/afterlife",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [
+        "PROP_05_CANTEEN_MEAL",
+        "LOC_04_TABLE_SET"
+      ],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_04_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_FULL_BODY_3Q",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_FULL_BODY_3Q",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_05_CANTEEN_MEAL",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "LOC_04_TABLE_SET",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Approved assets are available; create a source-specific blocking/keyframe reference before shot rendering."
+      ]
+    },
+    {
+      "shot_id": "SHOT_052",
+      "scene": 12,
+      "source_panels": [
+        "29.jpg"
+      ],
+      "location_id": "LOC_04",
+      "characters": [
+        "CHAR_01 young/afterlife",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [
+        "PROP_05_CANTEEN_MEAL",
+        "LOC_04_TABLE_SET"
+      ],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_04_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_FULL_BODY_3Q",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_FULL_BODY_3Q",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_05_CANTEEN_MEAL",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "LOC_04_TABLE_SET",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Approved assets are available; create a source-specific blocking/keyframe reference before shot rendering."
+      ]
+    },
+    {
+      "shot_id": "SHOT_053",
+      "scene": 12,
+      "source_panels": [
+        "29.jpg"
+      ],
+      "location_id": "LOC_04",
+      "characters": [
+        "CHAR_01 young/afterlife",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [
+        "PROP_05_CANTEEN_MEAL",
+        "LOC_04_TABLE_SET"
+      ],
+      "status": "READY",
+      "blocking_reference_required": false,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_04_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_FULL_BODY_3Q",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_FULL_BODY_3Q",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_05_CANTEEN_MEAL",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "LOC_04_TABLE_SET",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Direct-generation candidate from approved masters; no special blocking reference required."
+      ]
+    },
+    {
+      "shot_id": "SHOT_054",
+      "scene": 12,
+      "source_panels": [
+        "30.jpg"
+      ],
+      "location_id": "LOC_04",
+      "characters": [
+        "CHAR_01 young/afterlife",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [
+        "PROP_05_CANTEEN_MEAL",
+        "LOC_04_TABLE_SET"
+      ],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_04_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_FULL_BODY_3Q",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_FULL_BODY_3Q",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_05_CANTEEN_MEAL",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "LOC_04_TABLE_SET",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Approved assets are available; create a source-specific blocking/keyframe reference before shot rendering."
+      ]
+    },
+    {
+      "shot_id": "SHOT_055",
+      "scene": 12,
+      "source_panels": [
+        "30.jpg"
+      ],
+      "location_id": "LOC_04",
+      "characters": [
+        "CHAR_01 young/afterlife",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [
+        "PROP_05_CANTEEN_MEAL",
+        "LOC_04_TABLE_SET"
+      ],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_04_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_FULL_BODY_3Q",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_FULL_BODY_3Q",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_05_CANTEEN_MEAL",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "LOC_04_TABLE_SET",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Approved assets are available; create a source-specific blocking/keyframe reference before shot rendering."
+      ]
+    },
+    {
+      "shot_id": "SHOT_056",
+      "scene": 12,
+      "source_panels": [
+        "30.jpg"
+      ],
+      "location_id": "LOC_04",
+      "characters": [
+        "CHAR_01 young/afterlife",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [
+        "PROP_05_CANTEEN_MEAL",
+        "LOC_04_TABLE_SET"
+      ],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_04_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_FULL_BODY_3Q",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_FULL_BODY_3Q",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_05_CANTEEN_MEAL",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "LOC_04_TABLE_SET",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Approved assets are available; create a source-specific blocking/keyframe reference before shot rendering."
+      ]
+    },
+    {
+      "shot_id": "SHOT_057",
+      "scene": 12,
+      "source_panels": [
+        "31.jpg"
+      ],
+      "location_id": "LOC_04",
+      "characters": [
+        "CHAR_01 young/afterlife",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [
+        "PROP_01_WATCH"
+      ],
+      "status": "BLOCKED",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_04_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_FULL_BODY_3Q",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_FULL_BODY_3Q",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_01_WATCH",
+          "classification": "MISSING_BLOCKER",
+          "note": "NOT_GENERATED; source makes the wristwatch visible/story-critical in this shot."
+        }
+      ],
+      "blockers": [
+        "BLOCKED: 31.jpg visibly shows the wristwatch as the time cue; PROP_01_WATCH remains deferred and absent."
+      ],
+      "notes": [
+        "BLOCKED: 31.jpg visibly shows the wristwatch as the time cue; PROP_01_WATCH remains deferred and absent."
+      ]
+    },
+    {
+      "shot_id": "SHOT_058",
+      "scene": 12,
+      "source_panels": [
+        "31.jpg"
+      ],
+      "location_id": "LOC_04",
+      "characters": [
+        "CHAR_01 young/afterlife",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [
+        "PROP_01_WATCH"
+      ],
+      "status": "BLOCKED",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_04_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_FULL_BODY_3Q",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_FULL_BODY_3Q",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_01_WATCH",
+          "classification": "MISSING_BLOCKER",
+          "note": "NOT_GENERATED; source makes the wristwatch visible/story-critical in this shot."
+        }
+      ],
+      "blockers": [
+        "BLOCKED: 31.jpg visibly shows the wristwatch as the time cue; PROP_01_WATCH remains deferred and absent."
+      ],
+      "notes": [
+        "BLOCKED: 31.jpg visibly shows the wristwatch as the time cue; PROP_01_WATCH remains deferred and absent."
+      ]
+    },
+    {
+      "shot_id": "SHOT_059",
+      "scene": 13,
+      "source_panels": [
+        "32.jpg"
+      ],
+      "location_id": "LOC_03",
+      "characters": [
+        "CHAR_01 young/afterlife",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [
+        "PROP_08_RAILING"
+      ],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_03_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_FULL_BODY_3Q",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_FULL_BODY_3Q",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_08_RAILING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Approved assets are available; create a source-specific blocking/keyframe reference before shot rendering."
+      ]
+    },
+    {
+      "shot_id": "SHOT_060",
+      "scene": 13,
+      "source_panels": [
+        "32.jpg"
+      ],
+      "location_id": "LOC_03",
+      "characters": [
+        "CHAR_01 young/afterlife",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [
+        "PROP_08_RAILING"
+      ],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_03_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_FULL_BODY_3Q",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_FULL_BODY_3Q",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_08_RAILING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Approved assets are available; create a source-specific blocking/keyframe reference before shot rendering."
+      ]
+    },
+    {
+      "shot_id": "SHOT_061",
+      "scene": 13,
+      "source_panels": [
+        "33.jpg"
+      ],
+      "location_id": "LOC_03",
+      "characters": [
+        "CHAR_01 young/afterlife",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [
+        "PROP_08_RAILING"
+      ],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_03_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_FULL_BODY_3Q",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_FULL_BODY_3Q",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_08_RAILING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Approved assets are available; create a source-specific blocking/keyframe reference before shot rendering."
+      ]
+    },
+    {
+      "shot_id": "SHOT_062",
+      "scene": 13,
+      "source_panels": [
+        "33.jpg"
+      ],
+      "location_id": "LOC_03",
+      "characters": [
+        "CHAR_01 young/afterlife",
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [
+        "PROP_08_RAILING"
+      ],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_03_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_01_FULL_BODY_3Q",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_FULL_BODY_3Q",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_08_RAILING",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Approved assets are available; create a source-specific blocking/keyframe reference before shot rendering."
+      ]
+    },
+    {
+      "shot_id": "SHOT_063",
+      "scene": 13,
+      "source_panels": [
+        "34.jpg"
+      ],
+      "location_id": "LOC_03",
+      "characters": [
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "VIDEO_STAGE_FX",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_03_FACADE_RUN",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_FULL_BODY_3Q",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Motion accents are VIDEO_STAGE_FX; do not create a reusable FX asset."
+      ]
+    },
+    {
+      "shot_id": "SHOT_064",
+      "scene": 13,
+      "source_panels": [
+        "35.jpg"
+      ],
+      "location_id": "LOC_03",
+      "characters": [
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [],
+      "status": "READY_WITH_BLOCKING_REFERENCE",
+      "blocking_reference_required": true,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_03_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_FULL_BODY_3Q",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Approved assets are available; create a source-specific blocking/keyframe reference before shot rendering."
+      ]
+    },
+    {
+      "shot_id": "SHOT_065",
+      "scene": 13,
+      "source_panels": [
+        "35.jpg"
+      ],
+      "location_id": "LOC_03",
+      "characters": [
+        "CHAR_02 young/afterlife"
+      ],
+      "props": [],
+      "status": "READY",
+      "blocking_reference_required": false,
+      "text_lock_required": false,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_03_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "CHAR_02_FULL_BODY_3Q",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "Direct-generation candidate from approved masters; no special blocking reference required."
+      ]
+    },
+    {
+      "shot_id": "SHOT_066",
+      "scene": 14,
+      "source_panels": [
+        "36.jpg"
+      ],
+      "location_id": "LOC_01",
+      "characters": [],
+      "props": [
+        "PROP_09_WHITEBOARD",
+        "PROP_03_DESK_CHAIR_MASTER"
+      ],
+      "status": "READY",
+      "blocking_reference_required": false,
+      "text_lock_required": true,
+      "motion_fx": "NONE",
+      "asset_availability": [
+        {
+          "asset_id": "LOC_01_MASTER_WIDE",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_09_WHITEBOARD",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        },
+        {
+          "asset_id": "PROP_03_DESK_CHAIR_MASTER",
+          "classification": "APPROVED_AVAILABLE",
+          "note": "Manifest status APPROVED and output verified on disk."
+        }
+      ],
+      "blockers": [],
+      "notes": [
+        "TEXT_LOCK_REQUIRED: use approved deterministic PROP_09_WHITEBOARD; do not ask the video model to recreate farewell writing."
+      ]
+    }
+  ],
+  "blocking_reference_queue": [
+    "SHOT_001",
+    "SHOT_002",
+    "SHOT_007",
+    "SHOT_008",
+    "SHOT_009",
+    "SHOT_010",
+    "SHOT_011",
+    "SHOT_012",
+    "SHOT_013",
+    "SHOT_014",
+    "SHOT_015",
+    "SHOT_016",
+    "SHOT_017",
+    "SHOT_020",
+    "SHOT_021",
+    "SHOT_022",
+    "SHOT_023",
+    "SHOT_024",
+    "SHOT_025",
+    "SHOT_026",
+    "SHOT_027",
+    "SHOT_028",
+    "SHOT_029",
+    "SHOT_030",
+    "SHOT_031",
+    "SHOT_032",
+    "SHOT_033",
+    "SHOT_034",
+    "SHOT_035",
+    "SHOT_036",
+    "SHOT_038",
+    "SHOT_039",
+    "SHOT_040",
+    "SHOT_041",
+    "SHOT_042",
+    "SHOT_043",
+    "SHOT_045",
+    "SHOT_046",
+    "SHOT_047",
+    "SHOT_048",
+    "SHOT_049",
+    "SHOT_050",
+    "SHOT_051",
+    "SHOT_052",
+    "SHOT_054",
+    "SHOT_055",
+    "SHOT_056",
+    "SHOT_059",
+    "SHOT_060",
+    "SHOT_061",
+    "SHOT_062",
+    "SHOT_063",
+    "SHOT_064"
+  ],
+  "direct_generation_queue": [
+    "SHOT_003",
+    "SHOT_004",
+    "SHOT_005",
+    "SHOT_006",
+    "SHOT_037",
+    "SHOT_053",
+    "SHOT_065",
+    "SHOT_066"
+  ],
+  "blocked_shots": [
+    "SHOT_018",
+    "SHOT_019",
+    "SHOT_044",
+    "SHOT_057",
+    "SHOT_058"
+  ],
+  "recommended_first_shot": "SHOT_037"
+}

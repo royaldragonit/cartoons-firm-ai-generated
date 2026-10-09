@@ -1201,7 +1201,7 @@
       "SHOT_012"
     ],
     "priority": "LOW",
-    "status": "NOT_GENERATED",
+    "status": "APPROVED",
     "output_path": "assets/props/PROP_02_attendance_paper/master.png",
     "notes": "Do not invent readable roster text in generated art.",
     "stage": 6,
@@ -1277,11 +1277,13 @@
       "SHOT_044"
     ],
     "priority": "LOW",
-    "status": "GENERATED",
+    "status": "APPROVED",
     "output_path": "assets/props/PROP_08_railing/master.png",
     "notes": "Horizontal rail with evenly spaced vertical bars.",
     "stage": 6,
-    "prop_id": "PROP_08"
+    "prop_id": "PROP_08",
+    "location_id": "LOC_03",
+    "dependency": "LOC_03_MASTER"
   },
   {
     "asset_id": "PROP_09_WHITEBOARD",

@@ -79,7 +79,7 @@ Required reference views: CLASSROOM_MASTER_WIDE, CLASSROOM_FRONT, CLASSROOM_REAR
 | ID | Reference scenes | Required views | Notes |
 | --- | --- | --- | --- |
 | LOC_02 — school field/courtyard | 22.jpg, 24.jpg | COURTYARD_MASTER_WIDE, COURTYARD_MATTRESS_ZONE, COURTYARD_RUNNING_LANE | open pale ground; distant low school structures/fence; soft daylight; keep mattress position central for Huang Ming vignette |
-| LOC_03 — school gate/perimeter | 32.jpg, 33.jpg, 34.jpg | GATE_MASTER_WIDE, GATE_INTERIOR_FACING_OUT, GATE_EXTERIOR_FACING_IN, SCHOOL_FACADE_RUN_PATH | chain-link gate left of vertical fence; school facade with balcony and large window; daylight; open route for farewell walk/run |
+| LOC_03 — school gate/perimeter and school-building exterior balcony | 25.jpg, 32.jpg, 33.jpg, 34.jpg | GATE_MASTER_WIDE, GATE_INTERIOR_FACING_OUT, GATE_EXTERIOR_FACING_IN, SCHOOL_FACADE_RUN_PATH | chain-link gate left of vertical fence; school facade with balcony and large window; compatible school-building balcony/walkway railing; daylight; open route for Kim Fook and farewell walk/run |
 | LOC_04 — canteen | 29.jpg, 30.jpg, 31.jpg | CANTEEN_MASTER_WIDE, CANTEEN_TABLE_TWO_SHOT | simple rectangular table/bench seating; two plates and small cups when meal begins; plain pale walls; neutral indoor light |
 | LOC_05 — hospital room | 1.jpg, 2.jpg | HOSPITAL_MASTER_WIDE, HOSPITAL_BED_SIDE, HOSPITAL_FACE_ECU | single bed centered; headboard/monitor at right; dark oxygen tubing across patient; visitors are non-specific silhouettes; dim neutral clinical light |
 | LOC_06 — basketball court | 26.jpg | BASKETBALL_COURT_MASTER, HOOP_SIDE_ACTION | Canonical basketball location; hoop/backboard at left, open court, daylight. |
@@ -96,7 +96,7 @@ Required reference views: CLASSROOM_MASTER_WIDE, CLASSROOM_FRONT, CLASSROOM_REAR
 | PROP_05 | canteen food set | 29.jpg, 30.jpg | two plates, two cups, hand-safe eating pose | simple Vietnamese school-canteen meal impression, without adding branded packaging |
 | PROP_06 | mattress stack | 22.jpg | wide view only | two/three thick pale mattresses stacked at field center |
 | PROP_07 | basketball and hoop | 26.jpg | ball close reference, hoop/backboard side | one ball only; static hoop |
-| PROP_08 | railing | 25.jpg | wide support prop | simple horizontal rail with evenly spaced vertical bars |
+| PROP_08 | railing | 25.jpg | wide support prop | isolated school-building balcony/walkway railing segment; match LOC_03 architecture, use simple horizontal rails and repeated vertical bars |
 
 ## Shot-driven coverage matrix
 

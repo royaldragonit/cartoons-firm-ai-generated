@@ -1,0 +1,9 @@
+Animate the supplied keyframe_v002.png as the primary visual authority and exact starting composition for SHOT_037. One continuous approximately five-second silent image-to-video shot, eye-level, with only a very slight, slow, smooth camera push-in.
+
+The visual read remains HAND -> EMPTY WINDOW-SIDE SEAT -> WINDOW. Only the existing partial pointing hand and forearm at the right edge are visible. The fingertip continues to indicate the same empty chair and desk directly beside the left-side classroom window for the entire clip. The target seat stays empty. The rest of the pointing person remains outside the frame.
+
+The hand mostly holds its approved pose. Optional tiny natural settling in the wrist or forearm is restrained and anatomically coherent, with the pointing direction and target unchanged. Optional extremely subtle ambient life is acceptable only when nondistracting and consistent with the existing image. The result should feel like the approved still has gently come to life, with subtle life within the scene rather than only a uniform slideshow zoom.
+
+Preserve the approved framing hierarchy, hand-to-seat relationship, seat-to-window relationship, classroom architecture, window geometry, furniture count and placement, and stable daylight. Keep clean simple 2D cartoon line art, black outlines, restrained flat colors, minimal shading, and the low-detail comic feeling. Any supplied supporting references clarify existing identities and staging only; keyframe_v002.png controls this shot.
+
+Do not redesign the classroom, redirect the finger, change the indicated seat, move or morph desks/chairs, or add/remove furniture. Do not introduce students, a full character, extra hands/fingers, arm deformation, new props, text, speech bubbles, motion FX, wind, or dust. No pan, tilt, orbit, strong zoom, pronounced parallax, lighting transformation, cuts, photorealism, 3D, painterly rendering, or anime restyling. No audio or dialogue.

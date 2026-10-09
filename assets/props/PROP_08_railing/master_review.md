@@ -1,20 +1,41 @@
 # PROP_08_RAILING Review
 
-Status: REVIEW_REQUIRED
+Status: APPROVED
 
-Generated for `SHOT_044` using the exact manifest source image `25.jpg`. The required shot is `SHOT_044`; its manifest-defined associated approved location is `LOC_01` / the approved classroom master family.
+## Continuity correction
 
-- Railing silhouette fidelity: PASS — the isolated section preserves the source’s long horizontal upper rail, lower base rail, repeated vertical bars, and end posts.
-- Post / rail spacing: PASS — vertical bars are evenly spaced and clearly readable for later compositing.
-- Height / scale: PASS — the railing has a practical school-height proportion and a complete reusable section.
-- Orientation: PASS — a straight-on presentation keeps the repeating structure legible and easy to place.
-- Source-comic simplicity: PASS — clean 2D outlines, restrained gray/off-white flat colors, minimal shading, and low detail are maintained.
-- Associated location compatibility: PASS — the simple school railing is suitable for the LOC_01 shot staging specified by the manifest and SHOT_044.
-- Suitability for compositing: PASS — the prop is isolated on a plain background with no baked-in characters or environment.
-- Geometry invention check: REVIEW_REQUIRED — the source shows only a partial railing in context, so the repeated section length and simplified end-post treatment are derived for reuse; no decorative geometry beyond the source-supported structure was added.
-- Modern styling check: PASS — it does not resemble ornate metalwork or glossy modern architecture.
-- Unnecessary environment content: PASS — no classroom, school exterior, desks, characters, text, or unrelated props are included.
-- Suitability for `SHOT_044`: PASS — the railing is ready as a reusable blocking reference for the Kim Fook vignette staging, pending human approval.
-- Overall visual-style consistency: PASS — the asset matches the established production language.
+Human review result: APPROVED. The corrected LOC_03-based railing was human-reviewed and approved.
 
-Human approval is required. This asset remains `GENERATED` and must not be treated as approved.
+The source context is the exterior/open school-building balcony/walkway shown in `25.jpg`. `SHOT_044` correctly uses `LOC_03`.
+
+The previous LOC_01-based railing version was superseded and archived as:
+
+`assets/props/PROP_08_railing/master_obsolete_LOC01.png`
+
+The replacement uses `25.jpg` for source geometry and the approved `LOC_03_MASTER` for exterior school-building balcony continuity. `SHOT_044` is now assigned to `LOC_03`.
+
+## Source and environment comparison
+
+Compared against:
+
+1. `25.jpg`
+2. `assets/locations/LOC_03_gate/masters/master_wide.png`
+3. Corrected `SHOT_044` LOC_03 context
+
+- Source geometry fidelity: PASS — the replacement preserves the simple school-balcony railing silhouette supported by `25.jpg`.
+- Upper rail: PASS — one continuous upper rail is clear and gently perspective-aligned rather than forced perfectly orthographic.
+- Lower/base structure: PASS — a restrained lower/base rail is included where supported by the source structure.
+- Vertical-bar repetition: PASS — repeated narrow vertical bars use regular, readable spacing without ornamental patterning.
+- Railing height: PASS — the segment reads as a substantial balcony/walkway guardrail and remains compatible with the human-relative scale in `25.jpg` and the balcony proportions in `LOC_03_MASTER`.
+- Bar spacing: PASS — spacing is practical and visually consistent with the source-comic railing language.
+- Perspective: PASS — the slight three-quarter perspective is usable for compositing and is compatible with the source and LOC_03 exterior architecture.
+- LOC_03 architectural compatibility: PASS — the pale gray school-building balcony railing family matches the approved LOC_03 master.
+- Suitability for `SHOT_044`: PASS — the isolated segment can support the wide Kim Fook/Ah Da railing composition after LOC_03 environment blocking.
+- Reusability as an isolated prop: PASS — the full useful segment is visible on a plain transparent background with no baked-in building, gate, sky, landscape, characters, or text.
+- Absence of unsupported decorative geometry: PASS — no decorative caps, ornate metalwork, glass panels, luxury materials, arbitrary corner treatment, or unnecessary architectural details were added.
+- Style consistency: PASS — clean 2D black line art, restrained flat pale gray/off-white colors, minimal shading, and low-detail source-comic treatment are preserved.
+- Accepted structure: PASS — the simple continuous upper rail, lower/base structure, repeated vertical bars, and functional posts are accepted for the corrected LOC_03 continuity.
+
+## Status
+
+The previous LOC_01-based version remains obsolete and non-canonical. The corrected asset uses LOC_03 continuity and is APPROVED for production use.

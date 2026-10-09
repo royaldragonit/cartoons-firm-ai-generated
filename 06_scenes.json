@@ -851,6 +851,7 @@
       "CHAR_02"
     ],
     "location": "school railing",
+    "location_id": "LOC_03",
     "lighting": "daylight",
     "shot_type": "wide two-shot",
     "camera_angle": "eye level",
